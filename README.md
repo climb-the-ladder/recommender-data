@@ -28,3 +28,5 @@ Create a unified dataset for ML.
 Done ^
 
 - note: to refine when you check it or remove some fields
+
+To view the csvs better: https://csv-viewer-online.github.io/
