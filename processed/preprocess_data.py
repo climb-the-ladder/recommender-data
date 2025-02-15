@@ -2,9 +2,7 @@ import pandas as pd
 import os
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-
 dataset_path = os.path.join(script_dir, "../raw/dataset.csv")
-
 dataset_path = os.path.normpath(dataset_path)
 
 df = pd.read_csv(dataset_path)
