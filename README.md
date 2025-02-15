@@ -24,3 +24,9 @@ Remove irrelevant fields (e.g., first_name, email, etc.).
 Standardize career names between datasets.
 Map student academic performance to skill scores.
 Create a unified dataset for ML.
+
+Done ^
+
+- note: to refine when you check it or remove some fields
+
+To view the csvs better: https://csv-viewer-online.github.io/
