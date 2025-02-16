@@ -1,14 +1,4 @@
-Dataset 1 (dataset_1.csv - Student Academic & Career Aspirations)
-Column	Description
-id, first_name, last_name, email, gender	Personal details (not needed for ML)
-part_time_job, absence_days, extracurricular_activities	Student activities
-weekly_self_study_hours	Time spent on studying
-career_aspiration	The career they want
-math_score, history_score, ..., geography_score	Subject scores
-🔹 Type: Student data, career aspirations, and academic performance.
-🔹 Key column: career_aspiration (Target career interest).
-
-Dataset 2 (dataset_2.csv - Career & Skills Matching)
+Dataset (dataset.csv - Career & Skills Matching)
 Column	Description
 Field	Broad career category (e.g., Engineering, Law)
 Career	Specific job title (e.g., Urban Planner, Chemist)
