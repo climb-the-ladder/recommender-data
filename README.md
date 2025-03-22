@@ -1,7 +1,6 @@
 Instructions to run the preprocess.py file:
 
-In the root directory (recommender), run 
-
+In the root directory (recommender), run: 
 python recommender-data/processed/preprocess_data.py
 
 The new file will be generated. 
