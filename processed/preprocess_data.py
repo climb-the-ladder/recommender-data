@@ -1,23 +1,27 @@
 import pandas as pd
-import os
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-dataset_path = os.path.join(script_dir, "../raw/dataset.csv")
-dataset_path = os.path.normpath(dataset_path)
+def preprocess_student_data():
+    df = pd.read_csv('recommender-data/raw/student-scores.csv')
+    
+    # we drop unnecessary columns including personal info and boolean flags
+    df = df.drop(columns=[
+        'id', 'first_name', 'last_name', 'email', 'gender',
+        'part_time_job', 'extracurricular_activities',
+        'weekly_self_study_hours', 'absence_days'
+    ])
+    
+    # we also remove rows where career_aspiration is unknown
+    df = df[df['career_aspiration'] != 'Unknown']
+    
+    # Optional sanity check: drop rows with missing target values
+    df = df.dropna(subset=['career_aspiration'])
+    
+    # Final dataset preview
+    print("Processed Data Sample:")
+    print(df.head())
+    
+    df.to_csv('recommender-data/processed/processed_dataset.csv', index=False)
+    print("✅ Preprocessed dataset saved at recommender-data/processed/processed_dataset.csv")
 
-df = pd.read_csv(dataset_path)
-
-if "Field" in df.columns:
-    df = df.drop(columns=["Field"])
-    print("Column 'Field' removed successfully.")
-
-processed_folder = os.path.join(script_dir, "../processed")
-os.makedirs(processed_folder, exist_ok=True)
-
-processed_dataset_path = os.path.join(processed_folder, "processed_dataset.csv")
-
-df.to_csv(processed_dataset_path, index=False)
-
-print(f"Data preprocessing complete! Processed dataset saved at: {processed_dataset_path}")
-
-#newdata
+if __name__ == "__main__":
+    preprocess_student_data()
