@@ -1,0 +1,376 @@
+Career_Field,University_Name,Min_GPA_100,Max_GPA_100,Rank_Tier
+Lawyer,University of Pennsylvania,85,90,Top 25
+Lawyer,MIT,85,90,Top 25
+Lawyer,University of Washington,85,90,Top 25
+Lawyer,Harvard University,85,90,Top 25
+Lawyer,University of Texas at Austin,95,100,Top 5
+Lawyer,Texas A&M University,75,85,Regional
+Lawyer,Ohio State University,90,95,Top 15
+Lawyer,Stanford University,85,90,Top 25
+Lawyer,Georgia Institute of Technology,90,95,Top 15
+Lawyer,NYU,90,95,Top 15
+Lawyer,Cornell University,95,100,Top 5
+Lawyer,Purdue University,95,100,Top 5
+Lawyer,University of Florida,95,100,Top 5
+Lawyer,University of Southern California,85,90,Top 25
+Lawyer,University of Illinois Urbana-Champaign,90,95,Top 15
+Lawyer,University of Michigan,95,100,Top 5
+Lawyer,Northwestern University,75,85,Regional
+Lawyer,Columbia University,90,95,Top 15
+Lawyer,Yale University,95,100,Top 5
+Lawyer,Princeton University,75,85,Regional
+Lawyer,UCLA,85,90,Top 25
+Lawyer,Boston University,85,90,Top 25
+Lawyer,Carnegie Mellon University,95,100,Top 5
+Lawyer,Penn State University,85,90,Top 25
+Lawyer,University of Chicago,95,100,Top 5
+Doctor,Purdue University,75,85,Regional
+Doctor,Boston University,95,100,Top 5
+Doctor,University of Washington,95,100,Top 5
+Doctor,Penn State University,90,95,Top 15
+Doctor,Princeton University,85,90,Top 25
+Doctor,University of Florida,90,95,Top 15
+Doctor,Harvard University,85,90,Top 25
+Doctor,Columbia University,95,100,Top 5
+Doctor,UC Berkeley,95,100,Top 5
+Doctor,University of Southern California,75,85,Regional
+Doctor,Stanford University,95,100,Top 5
+Doctor,Duke University,85,90,Top 25
+Doctor,Northwestern University,95,100,Top 5
+Doctor,Texas A&M University,95,100,Top 5
+Doctor,NYU,85,90,Top 25
+Doctor,UCLA,85,90,Top 25
+Doctor,Yale University,85,90,Top 25
+Doctor,University of Chicago,90,95,Top 15
+Doctor,Georgia Institute of Technology,75,85,Regional
+Doctor,Cornell University,95,100,Top 5
+Doctor,University of Michigan,95,100,Top 5
+Doctor,University of Illinois Urbana-Champaign,75,85,Regional
+Doctor,Carnegie Mellon University,85,90,Top 25
+Doctor,University of Texas at Austin,95,100,Top 5
+Doctor,University of Pennsylvania,90,95,Top 15
+Government Officer,Purdue University,85,90,Top 25
+Government Officer,University of Michigan,95,100,Top 5
+Government Officer,Duke University,95,100,Top 5
+Government Officer,Columbia University,90,95,Top 15
+Government Officer,Stanford University,85,90,Top 25
+Government Officer,Princeton University,75,85,Regional
+Government Officer,University of Southern California,90,95,Top 15
+Government Officer,NYU,75,85,Regional
+Government Officer,Georgia Institute of Technology,90,95,Top 15
+Government Officer,Boston University,90,95,Top 15
+Government Officer,University of Washington,75,85,Regional
+Government Officer,Carnegie Mellon University,90,95,Top 15
+Government Officer,Cornell University,90,95,Top 15
+Government Officer,University of Illinois Urbana-Champaign,90,95,Top 15
+Government Officer,Harvard University,90,95,Top 15
+Government Officer,Texas A&M University,90,95,Top 15
+Government Officer,University of Florida,85,90,Top 25
+Government Officer,Penn State University,75,85,Regional
+Government Officer,Northwestern University,90,95,Top 15
+Government Officer,University of Texas at Austin,85,90,Top 25
+Government Officer,MIT,75,85,Regional
+Government Officer,Yale University,75,85,Regional
+Government Officer,University of Chicago,75,85,Regional
+Government Officer,UCLA,95,100,Top 5
+Government Officer,Ohio State University,85,90,Top 25
+Artist,Carnegie Mellon University,90,95,Top 15
+Artist,University of Washington,90,95,Top 15
+Artist,University of Chicago,75,85,Regional
+Artist,Columbia University,85,90,Top 25
+Artist,Stanford University,75,85,Regional
+Artist,University of Southern California,90,95,Top 15
+Artist,Yale University,75,85,Regional
+Artist,Purdue University,95,100,Top 5
+Artist,Texas A&M University,75,85,Regional
+Artist,University of Illinois Urbana-Champaign,85,90,Top 25
+Artist,NYU,75,85,Regional
+Artist,Cornell University,90,95,Top 15
+Artist,Northwestern University,85,90,Top 25
+Artist,Penn State University,95,100,Top 5
+Artist,UCLA,95,100,Top 5
+Artist,Princeton University,95,100,Top 5
+Artist,University of Florida,75,85,Regional
+Artist,Harvard University,85,90,Top 25
+Artist,Duke University,85,90,Top 25
+Artist,University of Michigan,75,85,Regional
+Artist,MIT,90,95,Top 15
+Artist,University of Texas at Austin,95,100,Top 5
+Artist,Boston University,95,100,Top 5
+Artist,Ohio State University,75,85,Regional
+Artist,Georgia Institute of Technology,95,100,Top 5
+Software Engineer,University of Chicago,85,90,Top 25
+Software Engineer,University of Illinois Urbana-Champaign,95,100,Top 5
+Software Engineer,Princeton University,95,100,Top 5
+Software Engineer,Duke University,85,90,Top 25
+Software Engineer,Northwestern University,85,90,Top 25
+Software Engineer,Carnegie Mellon University,95,100,Top 5
+Software Engineer,Stanford University,90,95,Top 15
+Software Engineer,UC Berkeley,90,95,Top 15
+Software Engineer,Penn State University,90,95,Top 15
+Software Engineer,Harvard University,95,100,Top 5
+Software Engineer,Boston University,75,85,Regional
+Software Engineer,Cornell University,75,85,Regional
+Software Engineer,University of Washington,90,95,Top 15
+Software Engineer,University of Florida,85,90,Top 25
+Software Engineer,UCLA,75,85,Regional
+Software Engineer,University of Southern California,95,100,Top 5
+Software Engineer,University of Michigan,85,90,Top 25
+Software Engineer,Georgia Institute of Technology,85,90,Top 25
+Software Engineer,University of Texas at Austin,85,90,Top 25
+Software Engineer,MIT,75,85,Regional
+Software Engineer,University of Pennsylvania,90,95,Top 15
+Software Engineer,Columbia University,90,95,Top 15
+Software Engineer,Ohio State University,85,90,Top 25
+Software Engineer,NYU,95,100,Top 5
+Software Engineer,Texas A&M University,75,85,Regional
+Teacher,Columbia University,90,95,Top 15
+Teacher,Boston University,90,95,Top 15
+Teacher,University of Chicago,85,90,Top 25
+Teacher,University of Florida,75,85,Regional
+Teacher,MIT,95,100,Top 5
+Teacher,University of Michigan,90,95,Top 15
+Teacher,NYU,95,100,Top 5
+Teacher,University of Washington,75,85,Regional
+Teacher,University of Pennsylvania,75,85,Regional
+Teacher,Penn State University,75,85,Regional
+Teacher,University of Southern California,95,100,Top 5
+Teacher,Ohio State University,90,95,Top 15
+Teacher,Cornell University,90,95,Top 15
+Teacher,Princeton University,75,85,Regional
+Teacher,UC Berkeley,90,95,Top 15
+Teacher,Stanford University,90,95,Top 15
+Teacher,Purdue University,75,85,Regional
+Teacher,Duke University,85,90,Top 25
+Teacher,University of Illinois Urbana-Champaign,90,95,Top 15
+Teacher,Harvard University,95,100,Top 5
+Teacher,Carnegie Mellon University,85,90,Top 25
+Teacher,UCLA,90,95,Top 15
+Teacher,Georgia Institute of Technology,85,90,Top 25
+Teacher,University of Texas at Austin,75,85,Regional
+Teacher,Texas A&M University,75,85,Regional
+Scientist,Northwestern University,90,95,Top 15
+Scientist,University of Illinois Urbana-Champaign,95,100,Top 5
+Scientist,NYU,95,100,Top 5
+Scientist,University of Florida,95,100,Top 5
+Scientist,Duke University,90,95,Top 15
+Scientist,University of Michigan,90,95,Top 15
+Scientist,Georgia Institute of Technology,95,100,Top 5
+Scientist,University of Southern California,85,90,Top 25
+Scientist,Carnegie Mellon University,95,100,Top 5
+Scientist,University of Pennsylvania,90,95,Top 15
+Scientist,Yale University,90,95,Top 15
+Scientist,Texas A&M University,85,90,Top 25
+Scientist,Cornell University,85,90,Top 25
+Scientist,Princeton University,95,100,Top 5
+Scientist,UCLA,95,100,Top 5
+Scientist,Stanford University,75,85,Regional
+Scientist,University of Chicago,75,85,Regional
+Scientist,MIT,95,100,Top 5
+Scientist,Harvard University,75,85,Regional
+Scientist,University of Washington,90,95,Top 15
+Scientist,UC Berkeley,75,85,Regional
+Scientist,Purdue University,95,100,Top 5
+Scientist,University of Texas at Austin,75,85,Regional
+Scientist,Boston University,95,100,Top 5
+Scientist,Penn State University,95,100,Top 5
+Banker,UCLA,90,95,Top 15
+Banker,Duke University,95,100,Top 5
+Banker,Princeton University,75,85,Regional
+Banker,MIT,95,100,Top 5
+Banker,Penn State University,75,85,Regional
+Banker,University of Southern California,85,90,Top 25
+Banker,University of Illinois Urbana-Champaign,85,90,Top 25
+Banker,Stanford University,95,100,Top 5
+Banker,University of Chicago,85,90,Top 25
+Banker,University of Texas at Austin,90,95,Top 15
+Banker,Texas A&M University,95,100,Top 5
+Banker,University of Florida,85,90,Top 25
+Banker,Harvard University,90,95,Top 15
+Banker,University of Washington,95,100,Top 5
+Banker,Northwestern University,75,85,Regional
+Banker,University of Michigan,85,90,Top 25
+Banker,UC Berkeley,75,85,Regional
+Banker,University of Pennsylvania,75,85,Regional
+Banker,Carnegie Mellon University,75,85,Regional
+Banker,Boston University,75,85,Regional
+Banker,Cornell University,75,85,Regional
+Banker,Ohio State University,95,100,Top 5
+Banker,Georgia Institute of Technology,75,85,Regional
+Banker,Purdue University,75,85,Regional
+Banker,Columbia University,85,90,Top 25
+Writer,UCLA,95,100,Top 5
+Writer,Stanford University,75,85,Regional
+Writer,Ohio State University,85,90,Top 25
+Writer,Cornell University,95,100,Top 5
+Writer,University of Southern California,90,95,Top 15
+Writer,MIT,90,95,Top 15
+Writer,Carnegie Mellon University,85,90,Top 25
+Writer,Yale University,85,90,Top 25
+Writer,Texas A&M University,85,90,Top 25
+Writer,University of Chicago,90,95,Top 15
+Writer,Northwestern University,85,90,Top 25
+Writer,University of Texas at Austin,75,85,Regional
+Writer,UC Berkeley,75,85,Regional
+Writer,NYU,75,85,Regional
+Writer,Georgia Institute of Technology,75,85,Regional
+Writer,University of Florida,90,95,Top 15
+Writer,Columbia University,85,90,Top 25
+Writer,University of Pennsylvania,90,95,Top 15
+Writer,Duke University,90,95,Top 15
+Writer,Princeton University,95,100,Top 5
+Writer,Penn State University,90,95,Top 15
+Writer,Purdue University,85,90,Top 25
+Writer,Boston University,75,85,Regional
+Writer,University of Illinois Urbana-Champaign,95,100,Top 5
+Writer,University of Michigan,75,85,Regional
+Accountant,Princeton University,75,85,Regional
+Accountant,University of Southern California,75,85,Regional
+Accountant,Columbia University,85,90,Top 25
+Accountant,Northwestern University,75,85,Regional
+Accountant,NYU,85,90,Top 25
+Accountant,Yale University,85,90,Top 25
+Accountant,Harvard University,95,100,Top 5
+Accountant,Penn State University,95,100,Top 5
+Accountant,Cornell University,75,85,Regional
+Accountant,Purdue University,95,100,Top 5
+Accountant,UCLA,95,100,Top 5
+Accountant,University of Illinois Urbana-Champaign,90,95,Top 15
+Accountant,UC Berkeley,85,90,Top 25
+Accountant,University of Florida,85,90,Top 25
+Accountant,Texas A&M University,90,95,Top 15
+Accountant,University of Pennsylvania,75,85,Regional
+Accountant,Boston University,75,85,Regional
+Accountant,Carnegie Mellon University,90,95,Top 15
+Accountant,University of Michigan,75,85,Regional
+Accountant,University of Chicago,90,95,Top 15
+Accountant,Georgia Institute of Technology,75,85,Regional
+Accountant,University of Washington,85,90,Top 25
+Accountant,Stanford University,90,95,Top 15
+Accountant,Duke University,75,85,Regional
+Accountant,Ohio State University,90,95,Top 15
+Designer,Duke University,75,85,Regional
+Designer,Harvard University,85,90,Top 25
+Designer,University of Washington,75,85,Regional
+Designer,University of Michigan,90,95,Top 15
+Designer,Yale University,85,90,Top 25
+Designer,Columbia University,95,100,Top 5
+Designer,MIT,90,95,Top 15
+Designer,Princeton University,95,100,Top 5
+Designer,University of Illinois Urbana-Champaign,90,95,Top 15
+Designer,Purdue University,95,100,Top 5
+Designer,Boston University,85,90,Top 25
+Designer,University of Chicago,85,90,Top 25
+Designer,University of Texas at Austin,90,95,Top 15
+Designer,Stanford University,95,100,Top 5
+Designer,University of Pennsylvania,75,85,Regional
+Designer,Penn State University,95,100,Top 5
+Designer,NYU,90,95,Top 15
+Designer,Georgia Institute of Technology,75,85,Regional
+Designer,Cornell University,75,85,Regional
+Designer,UCLA,75,85,Regional
+Designer,Carnegie Mellon University,95,100,Top 5
+Designer,Northwestern University,90,95,Top 15
+Designer,Texas A&M University,85,90,Top 25
+Designer,Ohio State University,95,100,Top 5
+Designer,UC Berkeley,85,90,Top 25
+Construction Engineer,Purdue University,90,95,Top 15
+Construction Engineer,Carnegie Mellon University,90,95,Top 15
+Construction Engineer,University of Illinois Urbana-Champaign,95,100,Top 5
+Construction Engineer,University of Chicago,85,90,Top 25
+Construction Engineer,Stanford University,90,95,Top 15
+Construction Engineer,University of Pennsylvania,90,95,Top 15
+Construction Engineer,University of Southern California,85,90,Top 25
+Construction Engineer,UCLA,85,90,Top 25
+Construction Engineer,Cornell University,95,100,Top 5
+Construction Engineer,Duke University,95,100,Top 5
+Construction Engineer,Boston University,95,100,Top 5
+Construction Engineer,University of Michigan,75,85,Regional
+Construction Engineer,MIT,75,85,Regional
+Construction Engineer,Ohio State University,95,100,Top 5
+Construction Engineer,Yale University,85,90,Top 25
+Construction Engineer,Georgia Institute of Technology,75,85,Regional
+Construction Engineer,University of Texas at Austin,90,95,Top 15
+Construction Engineer,Texas A&M University,95,100,Top 5
+Construction Engineer,University of Florida,85,90,Top 25
+Construction Engineer,Columbia University,95,100,Top 5
+Construction Engineer,Penn State University,95,100,Top 5
+Construction Engineer,Harvard University,95,100,Top 5
+Construction Engineer,UC Berkeley,75,85,Regional
+Construction Engineer,Princeton University,90,95,Top 15
+Construction Engineer,Northwestern University,95,100,Top 5
+Game Developer,Texas A&M University,75,85,Regional
+Game Developer,Harvard University,75,85,Regional
+Game Developer,University of Florida,75,85,Regional
+Game Developer,NYU,95,100,Top 5
+Game Developer,University of Pennsylvania,95,100,Top 5
+Game Developer,UCLA,75,85,Regional
+Game Developer,University of Chicago,85,90,Top 25
+Game Developer,Northwestern University,75,85,Regional
+Game Developer,Carnegie Mellon University,90,95,Top 15
+Game Developer,Purdue University,75,85,Regional
+Game Developer,Boston University,75,85,Regional
+Game Developer,Georgia Institute of Technology,75,85,Regional
+Game Developer,Cornell University,75,85,Regional
+Game Developer,University of Washington,95,100,Top 5
+Game Developer,Penn State University,75,85,Regional
+Game Developer,University of Texas at Austin,75,85,Regional
+Game Developer,University of Michigan,85,90,Top 25
+Game Developer,MIT,85,90,Top 25
+Game Developer,UC Berkeley,85,90,Top 25
+Game Developer,Duke University,75,85,Regional
+Game Developer,Yale University,95,100,Top 5
+Game Developer,University of Illinois Urbana-Champaign,85,90,Top 25
+Game Developer,University of Southern California,95,100,Top 5
+Game Developer,Stanford University,85,90,Top 25
+Game Developer,Ohio State University,90,95,Top 15
+Stock Investor,MIT,95,100,Top 5
+Stock Investor,Yale University,75,85,Regional
+Stock Investor,Columbia University,90,95,Top 15
+Stock Investor,Cornell University,85,90,Top 25
+Stock Investor,Stanford University,90,95,Top 15
+Stock Investor,Texas A&M University,95,100,Top 5
+Stock Investor,Boston University,95,100,Top 5
+Stock Investor,Harvard University,95,100,Top 5
+Stock Investor,Princeton University,85,90,Top 25
+Stock Investor,University of Florida,95,100,Top 5
+Stock Investor,University of Michigan,95,100,Top 5
+Stock Investor,Duke University,75,85,Regional
+Stock Investor,UC Berkeley,95,100,Top 5
+Stock Investor,University of Pennsylvania,85,90,Top 25
+Stock Investor,University of Chicago,85,90,Top 25
+Stock Investor,University of Southern California,85,90,Top 25
+Stock Investor,UCLA,95,100,Top 5
+Stock Investor,University of Texas at Austin,75,85,Regional
+Stock Investor,University of Washington,85,90,Top 25
+Stock Investor,University of Illinois Urbana-Champaign,75,85,Regional
+Stock Investor,Georgia Institute of Technology,95,100,Top 5
+Stock Investor,Ohio State University,75,85,Regional
+Stock Investor,Purdue University,95,100,Top 5
+Stock Investor,Carnegie Mellon University,75,85,Regional
+Stock Investor,Penn State University,95,100,Top 5
+Real Estate Developer,University of Pennsylvania,75,85,Regional
+Real Estate Developer,University of Southern California,75,85,Regional
+Real Estate Developer,Penn State University,90,95,Top 15
+Real Estate Developer,University of Washington,90,95,Top 15
+Real Estate Developer,Cornell University,85,90,Top 25
+Real Estate Developer,Princeton University,90,95,Top 15
+Real Estate Developer,Harvard University,95,100,Top 5
+Real Estate Developer,UC Berkeley,75,85,Regional
+Real Estate Developer,University of Illinois Urbana-Champaign,90,95,Top 15
+Real Estate Developer,MIT,90,95,Top 15
+Real Estate Developer,University of Texas at Austin,90,95,Top 15
+Real Estate Developer,NYU,85,90,Top 25
+Real Estate Developer,Carnegie Mellon University,75,85,Regional
+Real Estate Developer,Texas A&M University,90,95,Top 15
+Real Estate Developer,Yale University,75,85,Regional
+Real Estate Developer,UCLA,95,100,Top 5
+Real Estate Developer,Ohio State University,95,100,Top 5
+Real Estate Developer,Georgia Institute of Technology,95,100,Top 5
+Real Estate Developer,Duke University,75,85,Regional
+Real Estate Developer,Boston University,90,95,Top 15
+Real Estate Developer,Stanford University,75,85,Regional
+Real Estate Developer,University of Michigan,90,95,Top 15
+Real Estate Developer,Northwestern University,85,90,Top 25
+Real Estate Developer,University of Florida,85,90,Top 25
+Real Estate Developer,Purdue University,90,95,Top 15

@@ -7,18 +7,12 @@ Software Engineer,99,96,97,73,88,76,64
 Software Engineer,95,95,82,63,84,70,85
 Teacher,98,69,88,71,67,71,73
 Teacher,65,60,97,94,71,81,66
-Business Owner,94,59,69,67,89,65,73
-Business Owner,66,94,86,100,57,90,63
 Doctor,96,90,86,92,92,95,87
-Business Owner,94,50,78,64,79,74,84
 Scientist,92,64,93,91,80,89,72
 Software Engineer,86,83,85,79,93,76,77
 Doctor,92,87,92,99,97,87,86
 Software Engineer,99,65,98,75,66,72,100
 Software Engineer,100,90,72,98,73,97,72
-Business Owner,57,55,78,94,83,88,88
-Business Owner,89,72,68,72,71,54,90
-Business Owner,50,76,81,55,56,80,79
 Software Engineer,87,91,90,88,95,88,93
 Doctor,92,86,87,81,93,90,99
 Banker,100,77,80,94,63,90,90
@@ -34,17 +28,12 @@ Construction Engineer,92,100,85,89,81,91,88
 Banker,77,64,64,88,94,82,78
 Accountant,92,60,66,87,60,83,95
 Software Engineer,85,97,64,90,79,81,81
-Business Owner,65,55,66,50,88,56,86
-Business Owner,93,94,92,77,87,98,63
 Game Developer,97,99,85,96,91,68,66
-Business Owner,54,99,79,57,53,95,83
-Business Owner,88,53,50,58,84,53,96
 Lawyer,71,85,93,68,100,91,87
 Stock Investor,81,98,74,70,97,65,65
 Accountant,100,89,90,93,30,83,74
 Stock Investor,76,72,96,65,89,87,94
 Lawyer,99,81,73,70,85,86,61
-Business Owner,64,70,61,81,82,51,70
 Banker,90,96,86,61,89,98,68
 Game Developer,85,100,92,68,60,77,83
 Software Engineer,91,60,84,88,76,71,99
@@ -53,23 +42,18 @@ Software Engineer,94,89,64,96,91,95,77
 Software Engineer,89,99,90,79,85,96,98
 Game Developer,91,81,88,71,78,83,76
 Lawyer,83,86,61,99,99,88,73
-Business Owner,98,65,53,64,52,96,62
 Banker,83,97,65,88,67,95,69
 Construction Engineer,91,73,99,70,63,80,78
-Business Owner,90,54,77,74,76,96,88
 Software Engineer,92,86,66,69,100,71,80
 Real Estate Developer,64,64,73,76,72,97,91
 Software Engineer,90,70,85,60,81,71,88
 Banker,99,81,96,69,91,87,83
 Designer,89,66,93,81,86,88,70
 Writer,62,87,93,83,93,97,73
-Business Owner,61,70,69,64,59,78,80
-Business Owner,51,54,66,87,99,58,68
 Software Engineer,85,100,64,68,73,81,87
 Software Engineer,99,90,96,92,100,98,77
 Software Engineer,87,63,60,90,89,99,80
 Software Engineer,87,79,89,68,93,75,92
-Business Owner,87,67,94,92,62,58,65
 Stock Investor,76,67,83,85,91,61,67
 Government Officer,60,80,61,63,95,92,75
 Scientist,85,65,99,100,88,93,72
@@ -91,19 +75,13 @@ Artist,87,73,98,91,79,60,77
 Software Engineer,96,80,100,61,81,98,65
 Writer,76,87,64,74,73,90,99
 Artist,90,80,63,94,64,70,79
-Business Owner,65,60,100,91,87,78,99
 Real Estate Developer,98,97,62,89,62,95,77
 Accountant,91,80,97,89,94,95,84
 Scientist,86,81,83,81,81,77,86
 Accountant,78,69,82,60,64,77,82
 Stock Investor,76,89,89,83,89,90,64
-Business Owner,82,54,85,57,50,54,76
-Business Owner,45,85,94,76,57,93,86
 Banker,92,75,65,97,61,76,81
-Business Owner,43,65,91,75,64,94,100
-Business Owner,78,71,50,55,54,97,95
 Software Engineer,93,73,94,65,60,63,93
-Business Owner,55,93,67,74,55,60,64
 Teacher,66,90,83,80,76,90,91
 Doctor,98,92,91,99,97,88,75
 Doctor,94,94,94,89,85,86,85
@@ -113,7 +91,6 @@ Accountant,96,67,80,83,86,77,75
 Stock Investor,96,73,90,85,63,84,87
 Banker,95,82,66,63,67,92,69
 Software Engineer,90,63,69,80,99,69,79
-Business Owner,88,52,53,56,85,93,78
 Designer,87,62,87,96,85,90,74
 Designer,62,83,84,75,83,85,86
 Banker,85,65,60,78,81,96,76
@@ -126,36 +103,27 @@ Lawyer,70,99,79,96,60,97,100
 Software Engineer,93,68,76,99,80,80,75
 Game Developer,92,79,81,61,86,72,88
 Real Estate Developer,83,72,68,94,100,98,92
-Business Owner,68,97,51,93,68,58,78
 Lawyer,92,90,65,79,96,87,74
-Business Owner,76,72,72,65,82,71,93
-Business Owner,41,57,97,56,50,98,83
 Real Estate Developer,78,67,82,70,65,68,81
 Software Engineer,89,73,85,84,73,81,98
-Business Owner,97,54,62,66,58,69,96
-Business Owner,49,64,97,61,62,72,65
 Construction Engineer,96,66,92,88,65,76,72
 Construction Engineer,86,88,99,79,93,97,91
 Doctor,86,100,100,96,95,97,93
 Teacher,88,72,96,60,90,80,88
 Game Developer,92,81,99,98,77,80,73
-Business Owner,87,76,71,65,64,81,61
 Software Engineer,100,62,67,97,73,84,99
 Lawyer,91,98,76,99,65,98,71
 Stock Investor,81,87,65,85,74,64,81
 Accountant,82,66,89,76,68,83,79
 Lawyer,100,96,75,68,77,97,81
-Business Owner,65,100,80,83,57,81,81
 Accountant,97,92,95,75,95,90,83
 Banker,76,94,77,88,85,91,61
 Software Engineer,91,99,94,94,95,98,89
 Construction Engineer,85,73,89,73,97,66,79
 Lawyer,73,99,75,70,100,86,62
-Business Owner,46,79,75,86,91,88,77
 Software Engineer,92,84,85,77,81,69,95
 Artist,69,78,69,70,100,88,85
 Real Estate Developer,78,99,64,99,65,84,80
-Business Owner,92,62,86,97,54,76,76
 Scientist,95,79,98,95,89,99,87
 Game Developer,99,82,93,83,92,90,60
 Software Engineer,96,66,79,80,88,61,85
@@ -178,7 +146,6 @@ Banker,75,83,70,71,86,95,76
 Teacher,63,80,99,78,60,84,86
 Doctor,96,88,90,100,94,87,96
 Construction Engineer,91,73,86,73,84,60,71
-Business Owner,52,58,60,97,93,89,68
 Doctor,99,71,80,82,95,64,64
 Banker,84,62,92,74,73,98,91
 Artist,100,90,82,79,94,83,78
@@ -189,9 +156,6 @@ Real Estate Developer,99,76,94,88,75,66,84
 Software Engineer,95,87,79,95,84,90,74
 Software Engineer,99,61,75,68,66,90,99
 Designer,65,72,96,69,78,93,72
-Business Owner,85,55,74,71,66,50,99
-Business Owner,69,78,57,72,71,96,87
-Business Owner,75,76,88,65,97,83,85
 Software Engineer,91,78,72,69,77,91,96
 Real Estate Developer,92,95,61,98,89,85,80
 Software Engineer,87,91,98,94,100,87,89
@@ -199,12 +163,10 @@ Software Engineer,97,88,87,61,86,92,94
 Government Officer,97,92,79,88,92,99,85
 Designer,98,88,92,84,90,90,71
 Software Engineer,96,67,88,95,82,75,84
-Business Owner,98,89,81,56,72,74,94
 Lawyer,87,82,95,81,85,84,73
 Construction Engineer,96,80,86,94,63,72,75
 Software Engineer,100,72,99,64,70,93,67
 Software Engineer,91,81,91,76,100,92,87
-Business Owner,87,62,85,64,63,61,85
 Banker,75,95,84,87,78,82,86
 Banker,86,78,61,71,94,92,65
 Accountant,94,62,97,96,74,68,69
@@ -219,23 +181,16 @@ Game Developer,97,80,80,65,91,67,84
 Accountant,76,72,80,92,41,90,78
 Software Engineer,91,87,89,97,93,87,100
 Accountant,82,95,92,62,73,75,93
-Business Owner,59,56,87,97,62,74,61
-Business Owner,78,71,73,51,80,84,65
 Construction Engineer,89,65,82,65,76,95,62
 Software Engineer,86,91,92,96,90,96,90
 Artist,76,93,65,95,76,88,88
 Lawyer,91,96,77,76,80,97,80
-Business Owner,89,66,80,77,60,88,74
 Banker,100,86,74,96,80,99,76
 Doctor,96,68,87,96,91,68,65
 Banker,94,64,100,71,84,92,99
 Software Engineer,98,68,80,75,80,81,60
-Business Owner,53,71,98,95,94,71,77
-Business Owner,44,64,58,66,87,62,68
-Business Owner,51,91,67,79,58,52,75
 Lawyer,90,89,82,74,67,92,82
 Software Engineer,100,92,90,66,73,68,70
-Business Owner,95,73,61,91,84,92,94
 Lawyer,76,81,96,74,75,80,98
 Designer,71,98,96,60,90,79,72
 Banker,95,60,87,71,91,84,98
@@ -246,7 +201,6 @@ Artist,82,85,75,92,76,95,85
 Stock Investor,98,77,94,63,69,88,100
 Doctor,93,96,94,84,91,67,68
 Lawyer,84,97,60,100,83,88,94
-Business Owner,62,64,84,67,78,51,62
 Software Engineer,92,70,60,94,87,90,86
 Teacher,64,93,61,61,74,94,64
 Game Developer,89,67,97,67,75,94,93
@@ -261,19 +215,16 @@ Stock Investor,76,82,70,72,78,60,81
 Banker,77,62,97,82,74,98,95
 Accountant,89,81,99,71,67,74,89
 Government Officer,65,69,66,65,90,76,60
-Business Owner,82,55,76,63,70,61,60
 Banker,77,60,61,91,62,78,91
 Teacher,66,70,88,70,62,70,75
 Doctor,90,96,100,87,100,90,89
 Real Estate Developer,73,87,90,96,61,61,76
 Software Engineer,89,64,74,97,95,77,88
-Business Owner,72,55,54,62,75,79,96
 Scientist,87,90,89,88,93,87,70
 Scientist,75,98,96,85,81,69,90
 Teacher,80,85,98,99,92,70,96
 Software Engineer,92,93,74,76,79,65,74
 Game Developer,99,99,87,80,89,78,87
-Business Owner,87,88,51,96,77,71,61
 Software Engineer,87,84,62,76,89,83,93
 Software Engineer,90,75,71,64,97,89,88
 Doctor,94,83,99,100,94,91,69
@@ -285,18 +236,15 @@ Software Engineer,91,65,86,66,88,85,60
 Designer,90,72,78,61,78,88,74
 Construction Engineer,87,100,86,60,80,78,96
 Teacher,69,99,78,85,98,86,73
-Business Owner,66,99,50,62,97,60,84
 Government Officer,65,95,78,65,74,69,63
 Government Officer,83,81,88,82,97,83,74
 Lawyer,100,89,95,63,67,92,75
 Software Engineer,85,70,78,66,69,62,100
-Business Owner,45,98,95,66,84,83,100
 Government Officer,73,75,94,82,71,90,75
 Game Developer,95,83,96,97,72,77,61
 Lawyer,96,95,61,72,71,83,96
 Construction Engineer,94,72,96,93,93,79,64
 Teacher,92,69,69,60,90,88,95
-Business Owner,56,52,76,95,54,59,85
 Banker,85,74,65,76,100,95,68
 Designer,65,90,68,99,74,82,86
 Writer,64,81,95,87,86,91,80
@@ -305,7 +253,6 @@ Teacher,76,64,64,60,75,92,61
 Game Developer,97,76,91,76,89,60,85
 Game Developer,85,64,90,94,68,97,61
 Construction Engineer,86,91,96,60,91,73,88
-Business Owner,100,58,58,100,60,52,82
 Lawyer,71,81,99,74,74,82,67
 Government Officer,80,94,97,83,84,77,79
 Construction Engineer,91,76,96,77,99,64,83
@@ -315,29 +262,20 @@ Teacher,92,79,71,65,99,91,98
 Banker,89,76,95,83,84,96,61
 Accountant,93,92,92,76,49,93,75
 Designer,70,73,70,67,96,86,89
-Business Owner,62,53,78,77,59,95,80
 Stock Investor,83,61,79,99,66,60,76
 Software Engineer,85,96,87,63,69,69,81
-Business Owner,83,55,87,74,73,77,61
-Business Owner,73,95,54,94,99,58,94
-Business Owner,61,65,73,78,77,97,96
 Writer,77,87,65,91,71,90,90
 Lawyer,95,89,96,89,60,99,93
 Stock Investor,75,83,85,65,76,94,60
 Software Engineer,91,79,89,74,79,74,61
-Business Owner,71,69,69,67,70,78,66
 Writer,77,94,97,77,63,98,98
 Doctor,91,87,93,85,98,85,95
 Scientist,83,98,100,93,100,77,76
-Business Owner,75,51,70,84,66,64,88
 Software Engineer,86,96,68,71,86,94,89
 Doctor,86,88,89,89,98,89,96
 Software Engineer,85,67,60,82,77,72,72
 Writer,62,81,80,88,78,94,85
-Business Owner,100,65,67,61,76,58,84
-Business Owner,79,86,97,60,66,74,96
 Lawyer,99,97,68,85,86,85,73
-Business Owner,46,65,97,100,56,73,95
 Software Engineer,85,97,88,61,80,80,84
 Government Officer,85,68,89,64,79,66,66
 Software Engineer,85,87,91,63,95,88,62
@@ -354,10 +292,8 @@ Software Engineer,96,76,98,89,93,85,75
 Software Engineer,92,66,96,71,87,89,61
 Doctor,87,93,99,100,97,92,90
 Accountant,95,82,74,87,36,61,88
-Business Owner,44,76,56,71,66,54,91
 Banker,78,89,68,63,81,92,97
 Accountant,95,78,93,85,48,68,75
-Business Owner,57,56,53,75,98,92,73
 Software Engineer,86,99,95,94,92,90,77
 Writer,92,97,100,91,95,90,95
 Teacher,69,69,84,100,69,77,87
@@ -371,12 +307,10 @@ Lawyer,98,93,67,74,81,87,76
 Scientist,94,99,83,94,93,95,93
 Stock Investor,92,89,79,76,86,61,81
 Software Engineer,100,96,74,61,87,94,60
-Business Owner,48,55,86,51,54,94,61
 Real Estate Developer,63,87,71,68,66,67,99
 Software Engineer,89,83,89,91,94,93,69
 Stock Investor,88,90,93,81,88,90,74
 Real Estate Developer,98,87,67,97,62,60,79
-Business Owner,92,86,88,75,60,50,79
 Doctor,80,60,100,99,98,75,94
 Construction Engineer,92,63,91,65,69,94,98
 Artist,82,95,68,64,97,99,60
@@ -384,8 +318,6 @@ Stock Investor,84,74,74,75,99,99,85
 Teacher,61,70,65,67,93,81,63
 Software Engineer,99,87,98,76,65,94,67
 Accountant,83,69,90,78,39,95,82
-Business Owner,56,90,95,59,91,77,99
-Business Owner,65,64,52,56,63,82,83
 Designer,94,61,77,73,79,65,89
 Software Engineer,90,96,73,89,93,87,96
 Lawyer,94,82,81,90,76,97,86
@@ -402,7 +334,6 @@ Real Estate Developer,95,76,70,89,88,87,62
 Software Engineer,91,97,86,77,83,79,62
 Lawyer,79,81,63,79,96,96,89
 Doctor,80,71,94,92,92,60,78
-Business Owner,86,90,88,73,50,93,71
 Software Engineer,88,88,90,67,77,83,64
 Construction Engineer,83,95,86,80,64,66,97
 Doctor,84,84,80,97,87,97,91
@@ -412,18 +343,12 @@ Banker,83,71,94,60,63,93,67
 Real Estate Developer,97,93,99,98,96,79,88
 Real Estate Developer,63,68,92,73,66,69,87
 Doctor,92,98,90,82,86,86,89
-Business Owner,78,78,64,94,79,92,63
 Lawyer,78,90,69,100,90,91,90
 Stock Investor,89,60,93,79,72,76,85
 Real Estate Developer,53,87,100,84,63,62,95
-Business Owner,79,54,81,87,67,74,85
 Real Estate Developer,93,77,71,62,94,69,72
 Artist,97,88,67,72,83,87,62
 Accountant,84,83,80,91,88,61,61
-Business Owner,56,96,65,61,78,77,95
-Business Owner,67,60,97,53,93,78,81
-Business Owner,97,93,64,74,94,74,76
-Business Owner,100,67,50,78,73,90,91
 Teacher,83,61,76,75,62,79,94
 Artist,85,63,83,83,69,94,80
 Banker,100,96,97,64,76,77,61
@@ -435,7 +360,6 @@ Accountant,79,93,72,97,69,78,87
 Software Engineer,93,70,84,68,71,85,70
 Accountant,79,96,78,90,94,76,88
 Stock Investor,98,99,72,100,94,77,84
-Business Owner,93,99,81,67,87,76,60
 Banker,91,79,78,95,86,89,100
 Software Engineer,86,99,77,61,72,92,70
 Government Officer,97,94,94,83,91,65,96
@@ -452,60 +376,43 @@ Software Engineer,85,87,78,72,91,88,93
 Real Estate Developer,95,61,84,98,63,66,80
 Software Engineer,97,92,87,61,75,62,94
 Teacher,95,69,91,97,89,84,66
-Business Owner,84,55,65,62,56,91,81
 Banker,92,100,100,98,83,75,72
-Business Owner,87,95,78,82,53,59,66
 Banker,97,87,90,70,96,75,93
-Business Owner,92,96,77,95,63,57,90
-Business Owner,50,55,96,72,55,50,64
 Doctor,97,96,93,94,91,96,87
 Software Engineer,89,77,69,72,63,84,99
 Scientist,77,76,90,95,94,99,94
 Stock Investor,91,89,66,69,100,88,79
-Business Owner,64,92,70,81,85,55,76
-Business Owner,56,79,74,66,92,57,61
 Game Developer,87,70,98,64,65,78,83
 Software Engineer,99,69,85,91,77,88,75
 Lawyer,98,88,76,72,92,81,89
 Software Engineer,88,96,90,92,68,97,73
-Business Owner,71,52,53,64,89,76,70
 Construction Engineer,96,90,91,95,99,95,99
 Accountant,81,95,99,65,56,79,98
-Business Owner,94,92,63,84,79,66,96
 Doctor,94,87,98,90,92,88,100
 Lawyer,98,87,75,63,85,88,75
-Business Owner,100,58,54,97,58,51,80
 Designer,66,89,65,99,84,84,86
 Doctor,94,99,97,94,85,97,97
 Game Developer,83,90,93,89,64,63,82
-Business Owner,92,54,50,88,90,91,95
 Software Engineer,93,100,90,94,97,98,98
 Government Officer,69,92,84,98,98,83,87
 Software Engineer,94,71,63,73,66,90,91
 Stock Investor,100,92,95,90,67,81,66
 Lawyer,76,87,99,69,89,93,85
-Business Owner,77,62,94,65,77,77,95
 Artist,84,67,79,60,69,80,98
 Software Engineer,95,61,68,75,64,76,66
 Accountant,90,64,94,84,66,61,72
-Business Owner,80,81,92,73,71,71,84
 Software Engineer,87,83,75,73,92,91,71
-Business Owner,94,75,91,64,67,93,65
 Artist,87,82,88,100,73,96,75
 Software Engineer,95,97,88,77,96,96,74
 Construction Engineer,85,96,82,64,82,94,81
-Business Owner,67,65,77,72,94,88,77
 Government Officer,84,100,92,82,85,70,69
 Game Developer,83,88,90,100,71,98,96
-Business Owner,67,78,68,51,77,72,78
 Banker,75,92,72,88,92,77,84
 Government Officer,67,76,70,73,81,85,80
-Business Owner,67,54,51,72,75,60,88
 Artist,72,91,78,97,86,93,77
 Government Officer,78,98,76,68,86,91,82
 Doctor,85,87,92,96,92,90,88
 Stock Investor,100,70,69,61,100,65,81
-Business Owner,56,59,89,68,79,83,68
 Scientist,93,75,83,99,100,91,74
 Banker,89,91,85,69,76,92,94
 Real Estate Developer,59,88,74,92,72,97,64
@@ -516,10 +423,8 @@ Doctor,96,89,91,90,90,91,99
 Doctor,95,90,85,90,96,89,96
 Doctor,96,85,90,95,100,96,88
 Stock Investor,86,70,73,85,67,91,98
-Business Owner,42,95,99,61,62,77,99
 Lawyer,80,93,93,94,81,81,78
 Artist,79,97,100,94,65,62,76
-Business Owner,43,63,91,67,74,71,88
 Real Estate Developer,58,84,95,66,99,91,70
 Accountant,86,73,83,93,46,91,70
 Doctor,96,91,97,84,89,82,75
@@ -528,18 +433,14 @@ Artist,87,91,93,92,97,95,99
 Lawyer,84,89,74,79,86,93,95
 Lawyer,87,94,74,84,77,82,85
 Accountant,82,79,64,75,93,82,60
-Business Owner,64,61,73,70,87,75,100
 Lawyer,77,80,88,84,84,92,82
 Stock Investor,86,82,90,69,66,93,94
 Real Estate Developer,81,84,76,88,84,89,87
 Software Engineer,91,90,92,78,67,86,71
-Business Owner,72,99,61,67,95,98,89
 Writer,80,70,80,96,72,99,65
-Business Owner,72,51,52,98,50,90,63
 Software Engineer,93,85,89,93,90,91,88
 Doctor,95,85,90,94,91,84,85
 Doctor,86,93,89,90,100,86,93
-Business Owner,89,55,89,67,55,64,70
 Teacher,86,88,98,66,62,95,90
 Artist,83,78,68,72,77,89,70
 Lawyer,85,92,62,95,65,89,95
@@ -551,18 +452,13 @@ Artist,83,89,99,100,73,86,88
 Artist,62,89,72,68,85,80,75
 Writer,98,72,99,84,60,95,93
 Game Developer,97,62,98,70,67,71,70
-Business Owner,63,60,95,99,87,58,66
 Artist,98,99,64,88,72,87,99
-Business Owner,78,84,84,61,88,67,92
 Stock Investor,85,77,89,77,84,71,71
-Business Owner,59,100,84,93,70,56,74
 Accountant,76,62,86,80,47,85,71
 Lawyer,80,90,85,89,85,80,68
-Business Owner,82,74,92,50,77,98,100
 Software Engineer,89,64,72,61,75,68,83
 Software Engineer,89,79,75,80,97,94,68
 Software Engineer,86,89,94,95,60,90,90
-Business Owner,65,76,92,86,93,61,97
 Banker,77,95,77,84,60,90,89
 Banker,88,85,68,62,64,99,66
 Accountant,98,77,94,87,44,85,61
@@ -575,22 +471,17 @@ Software Engineer,93,70,62,99,63,83,60
 Banker,93,99,79,78,64,87,76
 Banker,94,89,74,75,73,78,61
 Banker,88,86,79,93,68,92,99
-Business Owner,93,95,94,70,83,86,94
 Construction Engineer,83,75,84,68,95,80,88
 Lawyer,96,93,100,96,97,81,72
 Accountant,87,88,93,88,96,85,94
 Lawyer,95,82,84,69,63,85,69
 Accountant,87,87,86,84,66,83,81
-Business Owner,43,95,64,95,66,67,74
-Business Owner,40,100,88,79,71,86,89
 Real Estate Developer,64,70,98,82,100,72,78
 Lawyer,77,96,86,84,90,85,91
-Business Owner,40,86,53,63,50,87,77
 Construction Engineer,100,89,90,96,72,90,86
 Software Engineer,89,93,95,88,72,76,71
 Software Engineer,97,74,76,72,62,69,90
 Lawyer,81,88,85,89,81,91,98
-Business Owner,100,91,53,78,55,91,74
 Designer,80,65,96,73,84,92,73
 Accountant,79,88,83,84,78,72,79
 Software Engineer,96,64,100,87,88,60,62
@@ -601,7 +492,6 @@ Doctor,88,71,87,85,100,78,78
 Artist,88,69,76,64,90,78,80
 Construction Engineer,84,66,99,80,71,88,89
 Software Engineer,96,77,91,85,69,91,91
-Business Owner,57,75,64,85,53,95,81
 Teacher,93,79,82,67,64,90,65
 Construction Engineer,89,99,86,97,98,97,93
 Construction Engineer,80,88,94,94,100,99,99
@@ -618,13 +508,11 @@ Banker,82,74,84,74,86,81,100
 Accountant,94,91,68,61,34,60,63
 Doctor,93,73,97,89,88,63,70
 Teacher,80,95,98,95,96,97,85
-Business Owner,55,99,71,94,69,87,84
 Government Officer,94,71,83,76,99,95,94
 Writer,72,72,85,90,75,94,65
 Software Engineer,98,89,75,68,87,69,96
 Software Engineer,99,95,89,90,95,98,99
 Stock Investor,97,67,86,95,65,91,76
-Business Owner,85,64,99,93,89,61,67
 Banker,89,63,73,83,74,91,83
 Banker,76,87,63,92,93,87,88
 Designer,100,68,80,75,85,82,85
@@ -634,21 +522,16 @@ Lawyer,70,83,63,86,97,88,79
 Lawyer,76,83,90,68,96,94,87
 Lawyer,75,82,89,65,85,89,81
 Stock Investor,97,65,96,87,87,95,100
-Business Owner,72,81,61,73,96,72,86
 Stock Investor,84,69,68,92,86,67,73
 Doctor,94,87,99,99,86,86,85
 Designer,80,91,100,87,87,94,100
 Software Engineer,87,98,79,87,92,80,93
 Stock Investor,93,94,87,92,99,93,88
 Game Developer,87,69,96,61,72,78,99
-Business Owner,64,51,70,94,86,65,80
 Software Engineer,96,73,91,71,72,74,76
 Scientist,97,62,93,80,96,94,67
 Artist,62,79,75,65,71,75,93
-Business Owner,97,79,96,94,59,83,64
 Software Engineer,85,100,90,93,94,97,98
-Business Owner,45,68,99,91,88,63,61
-Business Owner,86,79,86,73,53,84,79
 Software Engineer,97,94,73,98,87,97,98
 Software Engineer,93,67,65,61,61,96,65
 Software Engineer,85,93,75,72,84,63,63
@@ -657,7 +540,6 @@ Artist,100,67,98,71,92,79,99
 Software Engineer,93,74,88,92,77,89,96
 Artist,70,63,73,97,63,61,90
 Banker,82,67,94,88,86,89,98
-Business Owner,41,76,94,93,79,84,96
 Banker,94,74,74,89,67,93,96
 Designer,67,69,75,94,98,80,74
 Government Officer,89,75,64,81,66,82,92
@@ -668,22 +550,17 @@ Construction Engineer,84,65,83,99,86,75,67
 Software Engineer,87,98,97,70,80,67,82
 Software Engineer,90,93,66,77,72,82,82
 Scientist,86,81,91,83,97,83,80
-Business Owner,48,72,64,65,64,55,79
-Business Owner,49,59,99,59,75,54,70
-Business Owner,40,51,93,100,76,60,99
 Software Engineer,87,68,75,96,91,72,78
 Accountant,79,81,68,70,60,65,71
 Game Developer,100,100,94,83,62,92,71
 Banker,77,64,69,60,92,76,74
 Lawyer,83,84,96,96,79,80,81
 Software Engineer,96,79,80,71,67,76,63
-Business Owner,71,69,95,83,90,93,89
 Software Engineer,91,61,61,85,64,76,88
 Real Estate Developer,59,65,72,60,94,63,75
 Doctor,89,90,91,95,87,92,96
 Banker,81,92,68,93,69,78,89
 Accountant,77,84,86,97,90,83,92
-Business Owner,72,58,73,57,67,88,70
 Teacher,91,63,78,93,76,76,90
 Doctor,88,100,94,91,85,91,88
 Doctor,94,88,99,92,98,85,95
@@ -693,7 +570,6 @@ Government Officer,96,91,78,94,81,88,86
 Banker,87,99,99,100,98,96,94
 Banker,85,88,85,92,96,81,95
 Government Officer,88,85,100,68,65,97,94
-Business Owner,94,68,72,99,83,53,83
 Teacher,67,100,77,85,73,95,86
 Software Engineer,92,63,99,77,82,88,72
 Accountant,76,75,60,77,71,70,88
@@ -701,67 +577,51 @@ Software Engineer,86,75,96,62,81,91,84
 Software Engineer,94,94,86,62,73,90,75
 Software Engineer,100,85,62,62,89,65,67
 Lawyer,74,84,71,93,65,98,61
-Business Owner,66,97,72,98,86,86,63
 Scientist,99,96,100,95,90,95,88
 Banker,81,71,76,95,99,85,71
 Banker,95,88,62,85,82,94,73
-Business Owner,55,69,53,75,86,95,61
 Real Estate Developer,50,62,97,90,93,75,80
 Software Engineer,98,84,90,83,84,61,99
 Accountant,88,67,71,85,68,88,67
 Software Engineer,87,99,92,85,62,69,67
 Government Officer,73,74,94,76,97,86,85
-Business Owner,46,71,60,50,85,69,62
 Banker,88,82,90,94,99,78,65
 Software Engineer,95,62,68,64,71,87,60
 Artist,73,71,60,70,78,72,78
 Designer,70,88,100,91,98,68,81
 Construction Engineer,84,100,99,94,84,86,63
 Doctor,88,60,87,90,87,86,62
-Business Owner,46,54,93,57,99,59,73
 Lawyer,71,92,60,73,74,86,94
 Designer,76,77,99,87,95,94,85
 Designer,78,95,66,70,75,99,84
-Business Owner,100,54,70,58,50,95,92
 Government Officer,73,97,87,93,78,99,86
 Game Developer,96,63,85,77,82,65,88
 Artist,92,65,95,60,93,69,82
-Business Owner,81,77,92,97,62,65,92
 Government Officer,99,69,71,84,96,84,69
 Lawyer,97,100,87,90,96,86,93
 Construction Engineer,80,87,94,68,89,82,76
 Software Engineer,88,62,91,83,97,83,63
 Software Engineer,90,81,69,70,95,97,62
-Business Owner,77,89,50,82,71,78,70
-Business Owner,82,69,91,95,82,85,60
 Real Estate Developer,90,74,88,97,88,73,66
 Software Engineer,94,90,81,82,100,82,98
-Business Owner,87,84,76,87,65,80,72
 Game Developer,86,66,88,98,68,79,77
 Banker,84,85,83,69,82,91,69
 Accountant,86,63,85,64,98,97,86
-Business Owner,70,66,98,96,64,65,91
 Accountant,87,94,72,93,44,92,83
-Business Owner,47,78,75,62,61,55,93
 Software Engineer,96,63,77,93,61,86,83
-Business Owner,54,93,96,59,84,79,93
 Real Estate Developer,59,100,64,68,86,89,91
 Software Engineer,100,62,78,74,72,73,78
 Scientist,92,81,84,84,84,66,74
 Real Estate Developer,75,66,91,73,100,94,67
 Software Engineer,93,74,63,97,64,61,92
 Lawyer,100,96,67,63,91,96,84
-Business Owner,80,84,67,96,88,94,86
 Lawyer,100,92,66,96,76,88,77
-Business Owner,52,65,74,71,63,59,67
 Software Engineer,95,69,91,67,67,70,71
 Software Engineer,96,73,90,84,64,75,62
-Business Owner,51,98,90,54,77,80,71
 Software Engineer,85,100,93,64,81,78,64
 Accountant,76,86,68,83,82,67,69
 Software Engineer,92,63,87,92,81,78,74
 Government Officer,90,89,95,73,79,98,68
-Business Owner,73,53,68,60,95,96,99
 Doctor,90,89,92,93,97,92,100
 Accountant,87,87,86,91,90,75,79
 Real Estate Developer,93,96,70,92,65,90,84
@@ -770,32 +630,23 @@ Software Engineer,96,100,99,82,79,95,89
 Artist,63,75,68,63,63,73,79
 Lawyer,85,90,89,98,100,97,95
 Software Engineer,93,61,65,77,97,90,90
-Business Owner,61,73,76,51,76,50,77
 Software Engineer,97,81,65,70,62,96,75
 Software Engineer,90,64,91,93,86,91,97
-Business Owner,90,100,80,66,63,69,66
 Software Engineer,85,74,68,68,75,78,95
 Banker,82,87,98,73,74,89,66
-Business Owner,95,88,66,72,92,52,70
 Government Officer,95,96,66,68,90,91,99
 Real Estate Developer,81,90,71,97,81,86,73
 Teacher,62,69,99,95,73,79,83
 Real Estate Developer,95,92,89,64,77,80,66
-Business Owner,64,62,51,85,74,91,93
 Designer,96,67,88,82,90,74,96
-Business Owner,40,58,57,68,57,99,95
 Stock Investor,87,80,84,65,91,84,65
-Business Owner,51,56,64,85,91,78,97
 Real Estate Developer,57,74,98,93,63,70,67
-Business Owner,84,54,52,52,65,54,69
-Business Owner,84,83,71,98,93,95,99
 Stock Investor,100,84,73,96,97,85,63
 Software Engineer,90,91,88,95,98,99,71
 Banker,97,77,66,93,99,78,91
 Banker,77,93,69,75,88,81,89
 Teacher,82,61,79,84,73,95,85
 Software Engineer,89,68,83,88,69,79,74
-Business Owner,43,83,58,89,87,78,86
 Lawyer,86,85,66,94,62,86,92
 Scientist,92,74,95,97,87,78,68
 Software Engineer,92,81,71,97,96,72,63
@@ -804,11 +655,7 @@ Software Engineer,90,62,87,63,77,71,68
 Doctor,91,85,98,96,98,96,93
 Software Engineer,88,72,96,97,71,60,61
 Real Estate Developer,98,73,85,78,61,74,96
-Business Owner,87,60,67,88,99,56,92
 Teacher,66,64,82,82,72,96,100
-Business Owner,83,98,51,72,90,59,73
-Business Owner,40,94,90,68,61,77,92
-Business Owner,43,90,78,63,68,63,72
 Software Engineer,100,97,74,74,82,75,69
 Software Engineer,98,86,82,72,79,93,94
 Software Engineer,90,95,73,81,81,62,81
@@ -819,15 +666,12 @@ Designer,87,74,92,67,85,63,87
 Software Engineer,91,90,88,92,75,98,91
 Accountant,98,72,87,74,100,84,85
 Banker,85,74,79,82,71,87,67
-Business Owner,40,97,71,70,73,81,85
 Accountant,76,75,76,67,60,77,100
 Banker,89,76,84,93,64,86,95
 Artist,76,73,74,73,81,87,84
 Software Engineer,91,61,100,88,73,84,100
-Business Owner,55,58,96,88,99,98,71
 Real Estate Developer,93,88,76,73,67,88,76
 Real Estate Developer,84,68,60,86,90,84,81
-Business Owner,62,65,98,52,66,94,82
 Lawyer,80,81,75,72,71,84,87
 Doctor,93,84,85,94,95,74,83
 Lawyer,92,82,63,61,66,84,98
@@ -847,62 +691,49 @@ Software Engineer,91,97,87,93,94,90,88
 Construction Engineer,96,98,99,65,95,76,68
 Banker,81,68,97,86,90,78,80
 Software Engineer,87,89,61,66,72,90,61
-Business Owner,67,56,77,93,95,50,74
 Artist,100,95,60,89,77,89,67
 Software Engineer,88,74,60,60,78,94,69
 Software Engineer,86,64,100,76,99,77,86
 Scientist,85,87,90,88,87,97,100
 Software Engineer,93,95,80,88,83,62,65
-Business Owner,56,67,57,79,87,89,89
 Construction Engineer,87,62,84,96,69,98,64
 Real Estate Developer,97,85,96,61,97,79,70
 Scientist,86,67,98,86,86,83,89
 Software Engineer,97,85,81,71,62,62,82
 Software Engineer,86,64,96,84,86,96,92
-Business Owner,90,97,54,59,82,76,72
 Game Developer,95,87,87,84,95,84,65
 Banker,90,100,76,76,84,79,84
-Business Owner,81,92,72,91,67,71,88
 Software Engineer,85,99,86,69,68,98,62
 Doctor,94,90,95,85,98,91,96
 Game Developer,81,71,83,63,80,79,83
 Software Engineer,97,87,95,67,98,93,89
 Accountant,100,79,72,98,87,76,76
-Business Owner,54,64,72,80,98,83,85
 Software Engineer,97,87,70,74,73,74,81
 Real Estate Developer,65,83,67,84,89,65,73
-Business Owner,53,51,57,72,77,78,79
 Real Estate Developer,82,74,80,88,92,96,95
-Business Owner,93,90,79,54,53,99,79
 Software Engineer,93,90,73,94,81,84,74
-Business Owner,91,95,88,89,58,81,69
 Scientist,99,91,85,100,84,77,98
 Construction Engineer,87,63,81,85,62,98,81
 Real Estate Developer,59,73,90,74,95,77,81
 Lawyer,81,98,71,92,74,93,63
 Game Developer,80,92,85,81,94,75,72
 Banker,89,66,72,77,79,95,92
-Business Owner,94,61,60,77,75,93,60
 Designer,93,70,80,67,77,80,91
 Software Engineer,90,69,91,84,65,86,93
 Accountant,81,91,73,72,49,81,72
 Software Engineer,95,71,88,96,82,65,80
-Business Owner,67,50,93,86,66,73,85
 Game Developer,83,69,99,88,87,81,68
 Artist,87,96,67,64,67,81,90
 Construction Engineer,82,71,84,68,74,64,73
 Accountant,97,87,65,90,66,84,75
 Software Engineer,88,67,77,89,97,70,71
 Banker,91,94,81,61,61,82,73
-Business Owner,77,60,83,65,81,80,88
-Business Owner,100,82,91,82,70,51,77
 Banker,96,75,79,72,69,94,64
 Accountant,75,64,76,65,44,80,91
 Government Officer,94,84,85,63,67,89,66
 Stock Investor,100,80,74,87,77,95,92
 Accountant,94,97,61,67,77,88,70
 Government Officer,78,78,100,87,98,80,98
-Business Owner,65,71,88,57,75,62,62
 Writer,68,81,72,76,93,94,97
 Artist,93,78,98,76,86,89,92
 Scientist,100,64,95,83,83,94,83
@@ -925,21 +756,15 @@ Software Engineer,95,85,76,96,68,74,93
 Software Engineer,92,72,61,93,86,97,79
 Doctor,88,91,96,99,85,62,86
 Banker,92,60,76,61,94,93,94
-Business Owner,70,70,75,83,60,86,62
 Scientist,85,90,98,92,89,88,95
-Business Owner,63,86,89,87,67,73,80
 Banker,99,77,82,60,88,91,93
 Accountant,93,61,71,82,43,94,88
-Business Owner,81,86,84,78,63,86,73
-Business Owner,68,50,68,53,58,87,74
 Stock Investor,89,97,65,75,61,60,60
 Scientist,86,87,89,91,90,85,92
 Real Estate Developer,71,96,83,76,60,87,74
-Business Owner,72,69,58,79,70,50,98
 Software Engineer,99,84,75,81,91,87,63
 Stock Investor,99,78,74,95,72,65,91
 Software Engineer,88,71,82,98,91,73,74
-Business Owner,90,99,87,81,90,80,92
 Lawyer,91,88,79,60,82,96,83
 Lawyer,86,92,66,66,100,99,91
 Software Engineer,86,84,98,67,76,75,65
@@ -948,7 +773,6 @@ Banker,90,97,64,64,61,81,93
 Accountant,98,69,61,62,82,87,64
 Lawyer,72,93,68,62,83,98,67
 Scientist,77,93,83,84,83,84,71
-Business Owner,75,52,84,70,81,99,85
 Lawyer,94,82,83,76,83,93,94
 Banker,75,88,71,62,90,78,95
 Software Engineer,91,91,66,97,62,89,82
@@ -959,7 +783,6 @@ Software Engineer,90,91,61,72,64,84,72
 Scientist,92,78,96,91,82,98,100
 Accountant,90,88,71,96,72,74,80
 Lawyer,78,92,77,100,61,82,61
-Business Owner,82,58,58,91,91,55,98
 Software Engineer,86,62,81,63,75,92,95
 Scientist,83,63,93,94,93,90,78
 Teacher,69,85,70,79,68,81,89
@@ -971,7 +794,6 @@ Construction Engineer,94,88,98,64,99,98,96
 Teacher,93,64,81,74,96,94,98
 Doctor,92,88,90,94,88,92,96
 Real Estate Developer,73,87,92,99,84,91,71
-Business Owner,87,58,85,82,100,87,91
 Software Engineer,88,74,99,72,63,87,79
 Banker,96,87,64,88,64,92,77
 Doctor,89,96,85,91,100,91,91
@@ -979,7 +801,6 @@ Real Estate Developer,58,77,69,83,94,70,97
 Doctor,95,98,97,94,88,99,96
 Banker,76,69,86,72,71,79,63
 Construction Engineer,87,89,91,76,77,97,61
-Business Owner,70,61,83,52,81,97,69
 Construction Engineer,90,86,99,94,100,89,85
 Accountant,96,100,96,87,83,81,95
 Banker,88,98,81,61,62,96,60
@@ -989,12 +810,9 @@ Designer,96,61,85,87,83,80,79
 Lawyer,87,99,70,81,62,90,91
 Software Engineer,89,90,96,97,87,84,63
 Writer,77,98,67,67,80,90,66
-Business Owner,57,71,51,59,84,74,68
 Accountant,88,93,91,92,53,65,88
 Real Estate Developer,56,75,78,82,98,99,81
 Accountant,94,79,64,79,96,98,93
-Business Owner,57,71,76,59,58,84,73
-Business Owner,81,86,68,65,87,78,82
 Stock Investor,96,83,64,84,98,79,99
 Banker,97,66,76,80,81,82,64
 Game Developer,86,76,92,86,75,67,79
@@ -1006,19 +824,15 @@ Teacher,67,64,99,84,100,81,78
 Banker,84,94,60,83,97,75,97
 Artist,72,62,96,95,97,71,83
 Designer,74,88,99,92,93,85,81
-Business Owner,74,74,83,52,70,87,95
 Lawyer,91,92,64,69,82,94,61
 Accountant,77,66,94,77,49,83,64
 Government Officer,87,90,91,60,95,67,62
-Business Owner,92,84,86,80,73,97,88
-Business Owner,71,89,63,50,63,64,69
 Artist,62,100,91,75,99,76,78
 Real Estate Developer,100,85,81,91,75,64,83
 Game Developer,94,65,100,77,66,96,68
 Artist,98,80,66,94,86,72,86
 Construction Engineer,94,81,88,81,71,92,73
 Game Developer,92,69,93,67,79,84,69
-Business Owner,50,87,93,84,86,73,74
 Doctor,99,98,94,96,95,88,92
 Teacher,70,68,89,60,79,85,66
 Government Officer,92,93,86,61,78,80,62
@@ -1031,14 +845,12 @@ Real Estate Developer,68,95,62,65,70,65,64
 Construction Engineer,82,85,94,75,97,98,76
 Software Engineer,85,78,99,81,60,83,75
 Accountant,87,86,89,94,93,91,88
-Business Owner,98,81,58,78,91,74,75
 Real Estate Developer,91,94,75,86,84,67,97
 Doctor,100,90,89,91,86,75,72
 Real Estate Developer,50,60,70,75,100,62,100
 Designer,75,92,70,62,87,87,98
 Stock Investor,86,62,81,63,92,75,79
 Banker,80,66,67,72,78,99,67
-Business Owner,56,66,92,74,79,80,68
 Game Developer,91,72,85,78,92,82,85
 Construction Engineer,94,65,90,79,97,76,75
 Construction Engineer,81,82,99,86,88,60,89
@@ -1046,7 +858,6 @@ Accountant,94,82,91,94,100,99,69
 Doctor,99,89,93,87,86,90,96
 Lawyer,88,83,62,88,100,83,84
 Real Estate Developer,79,74,68,82,65,73,89
-Business Owner,49,85,70,90,79,71,67
 Government Officer,97,99,67,87,66,68,67
 Construction Engineer,96,70,82,71,99,90,65
 Stock Investor,89,71,75,65,74,93,90
@@ -1056,19 +867,15 @@ Real Estate Developer,58,66,99,98,69,65,78
 Banker,92,77,75,84,74,82,78
 Stock Investor,90,78,86,83,98,71,84
 Doctor,84,67,89,96,88,60,88
-Business Owner,81,85,50,53,55,91,78
 Teacher,87,89,94,82,81,98,88
 Writer,76,83,100,96,65,98,97
 Government Officer,60,66,65,90,61,96,74
-Business Owner,73,88,57,93,85,85,77
 Lawyer,99,81,80,89,75,83,93
-Business Owner,95,57,77,81,83,57,70
 Accountant,92,90,92,78,59,68,96
 Lawyer,100,94,76,60,95,90,66
 Doctor,89,67,98,94,89,60,95
 Banker,94,66,68,94,62,76,77
 Real Estate Developer,89,64,78,85,68,84,99
-Business Owner,74,79,82,51,67,65,82
 Teacher,95,82,70,81,94,93,69
 Lawyer,94,91,98,94,88,97,94
 Accountant,85,80,84,96,45,84,90
@@ -1078,17 +885,14 @@ Software Engineer,97,82,100,69,64,73,88
 Designer,100,83,67,77,88,76,84
 Doctor,99,65,97,89,87,72,86
 Designer,97,67,79,76,76,66,97
-Business Owner,53,98,66,80,82,89,85
 Designer,99,89,88,94,99,89,92
 Accountant,79,83,78,89,83,79,76
-Business Owner,94,95,75,73,51,89,77
 Software Engineer,97,73,92,64,66,96,65
 Accountant,87,70,65,64,30,72,68
 Stock Investor,82,82,87,92,64,70,72
 Doctor,94,98,96,88,96,61,80
 Software Engineer,99,85,97,72,79,92,82
 Teacher,68,83,74,87,71,86,82
-Business Owner,67,82,81,83,57,59,91
 Banker,92,65,81,79,84,85,74
 Writer,69,77,82,93,92,90,71
 Software Engineer,92,98,61,99,77,72,75
@@ -1096,7 +900,6 @@ Accountant,90,64,90,75,64,96,71
 Stock Investor,91,92,73,97,61,63,71
 Artist,65,67,91,81,97,99,75
 Software Engineer,98,80,70,60,88,65,92
-Business Owner,70,89,78,87,87,62,85
 Software Engineer,97,97,90,69,75,68,70
 Accountant,80,71,89,81,75,81,63
 Writer,70,75,79,77,65,92,78
@@ -1107,15 +910,12 @@ Construction Engineer,98,100,100,81,73,75,99
 Government Officer,88,74,88,92,83,71,89
 Software Engineer,89,65,71,96,65,63,100
 Lawyer,88,100,89,87,76,89,85
-Business Owner,78,73,89,86,69,84,97
 Doctor,87,85,96,98,88,99,92
 Software Engineer,90,76,64,88,80,75,70
 Accountant,88,67,90,89,49,85,63
 Game Developer,99,72,90,83,90,99,97
-Business Owner,41,99,84,63,92,72,81
 Government Officer,98,90,70,97,69,79,74
 Game Developer,91,66,91,62,82,69,62
-Business Owner,68,72,92,51,96,88,81
 Banker,79,100,79,60,100,84,93
 Banker,77,66,61,98,90,95,73
 Banker,89,100,90,81,86,80,92
@@ -1158,47 +958,35 @@ Construction Engineer,89,92,88,99,92,62,71
 Construction Engineer,90,73,98,72,69,84,86
 Banker,99,72,74,88,90,81,95
 Government Officer,62,67,96,67,82,65,73
-Business Owner,42,79,79,59,61,87,65
-Business Owner,46,52,87,80,76,73,76
 Game Developer,92,63,100,97,91,87,68
 Lawyer,94,89,96,98,61,95,67
 Banker,89,99,89,71,74,94,78
 Construction Engineer,90,100,98,95,97,74,63
-Business Owner,40,51,67,63,98,54,79
-Business Owner,42,92,60,54,68,69,76
-Business Owner,82,91,69,61,79,76,83
 Accountant,82,93,67,79,84,90,64
 Teacher,80,62,66,88,75,98,68
 Software Engineer,87,90,92,62,96,77,80
 Software Engineer,91,98,60,88,63,78,95
 Lawyer,100,94,94,87,65,83,95
-Business Owner,56,60,88,96,57,68,76
 Stock Investor,84,86,96,95,75,61,99
 Lawyer,86,86,64,61,97,97,91
-Business Owner,79,67,72,50,75,95,62
 Software Engineer,99,78,61,64,75,66,76
 Accountant,95,79,95,62,69,82,94
 Artist,65,67,90,99,93,91,99
 Doctor,99,82,81,98,86,85,85
 Artist,88,62,65,98,92,64,82
 Software Engineer,100,87,88,100,89,98,71
-Business Owner,84,75,61,87,86,67,93
 Teacher,60,61,71,60,69,91,84
 Stock Investor,96,76,74,92,96,74,99
 Real Estate Developer,58,81,100,97,74,90,87
 Teacher,90,67,73,82,66,75,90
 Accountant,75,80,65,80,55,86,95
 Banker,76,82,74,79,81,93,72
-Business Owner,81,100,64,61,91,76,93
-Business Owner,89,100,72,73,78,67,91
 Software Engineer,91,98,93,93,88,96,97
 Doctor,85,72,80,85,94,96,87
 Accountant,81,84,69,99,55,68,73
-Business Owner,67,63,65,95,52,84,77
 Doctor,86,71,86,93,99,92,77
 Lawyer,94,85,78,66,95,87,95
 Writer,83,96,72,81,86,93,75
-Business Owner,46,63,60,61,66,91,97
 Software Engineer,95,92,73,94,73,70,94
 Software Engineer,88,68,81,68,73,61,93
 Stock Investor,90,73,78,72,63,88,72
@@ -1219,10 +1007,8 @@ Software Engineer,90,95,68,75,71,68,95
 Banker,94,88,78,99,65,76,68
 Software Engineer,90,79,64,93,81,63,76
 Banker,78,89,83,80,67,90,93
-Business Owner,40,73,88,95,64,61,92
 Banker,97,84,70,90,97,95,87
 Stock Investor,84,98,71,62,89,86,67
-Business Owner,64,66,56,59,68,68,84
 Software Engineer,89,88,86,77,87,88,78
 Construction Engineer,99,93,98,74,87,88,78
 Doctor,85,96,98,85,95,96,97
@@ -1237,17 +1023,12 @@ Lawyer,72,80,84,91,96,93,74
 Teacher,94,98,65,98,78,96,86
 Real Estate Developer,58,71,73,65,63,85,64
 Doctor,89,76,100,100,99,68,79
-Business Owner,96,58,65,62,76,93,77
 Doctor,96,73,80,99,91,82,91
 Software Engineer,93,65,81,94,92,60,100
 Stock Investor,93,63,69,97,64,82,83
-Business Owner,58,65,72,98,56,59,81
-Business Owner,73,85,84,88,78,87,76
-Business Owner,93,51,58,70,63,64,89
 Accountant,92,66,77,96,92,62,90
 Software Engineer,99,99,69,92,95,79,81
 Designer,99,96,99,91,94,92,99
-Business Owner,73,70,80,74,71,90,80
 Doctor,86,78,81,87,99,71,97
 Software Engineer,89,93,71,84,63,61,76
 Game Developer,96,64,85,86,93,92,65
@@ -1273,7 +1054,6 @@ Teacher,79,78,100,90,89,80,68
 Real Estate Developer,62,84,74,74,66,61,90
 Software Engineer,87,78,96,84,97,89,82
 Accountant,81,83,79,94,37,84,71
-Business Owner,90,50,84,90,83,62,100
 Artist,75,69,97,98,60,60,85
 Construction Engineer,94,61,81,64,75,72,61
 Government Officer,91,68,62,82,70,92,73
@@ -1286,7 +1066,6 @@ Designer,71,70,87,62,92,63,80
 Government Officer,74,76,81,69,98,96,65
 Banker,93,60,71,63,75,76,77
 Lawyer,89,90,99,91,94,96,85
-Business Owner,66,53,85,84,98,86,79
 Stock Investor,80,96,79,95,74,95,61
 Software Engineer,97,93,67,85,90,72,96
 Doctor,87,86,87,91,86,96,92
@@ -1298,21 +1077,12 @@ Artist,79,100,75,85,100,81,64
 Construction Engineer,89,70,92,100,100,95,65
 Teacher,77,73,67,67,88,89,99
 Banker,95,79,85,73,74,86,68
-Business Owner,63,54,57,51,63,88,83
 Software Engineer,98,85,95,92,74,79,63
-Business Owner,40,81,54,70,53,98,61
 Software Engineer,89,84,84,100,77,62,69
 Doctor,86,75,97,93,88,74,97
 Software Engineer,99,77,60,99,100,83,72
-Business Owner,67,61,61,82,69,87,97
-Business Owner,43,87,81,61,65,53,84
-Business Owner,40,97,92,93,92,65,82
-Business Owner,65,93,67,73,57,72,97
-Business Owner,96,92,64,54,87,60,88
 Software Engineer,96,92,80,61,66,98,70
 Lawyer,90,84,90,81,92,83,69
-Business Owner,85,57,77,81,65,75,85
-Business Owner,92,96,80,98,61,84,74
 Doctor,100,82,84,100,90,62,87
 Stock Investor,94,63,98,73,63,98,100
 Banker,85,76,94,89,85,83,80
@@ -1322,7 +1092,6 @@ Writer,70,91,81,61,64,93,96
 Designer,62,72,78,96,70,74,72
 Software Engineer,94,97,73,79,84,66,64
 Real Estate Developer,79,93,100,83,78,80,87
-Business Owner,47,75,53,60,90,59,86
 Banker,100,73,70,71,73,96,67
 Banker,90,69,75,98,70,75,80
 Teacher,63,94,65,98,69,90,85
@@ -1339,85 +1108,64 @@ Software Engineer,93,74,80,79,70,66,91
 Accountant,93,74,96,69,71,82,76
 Software Engineer,92,74,90,87,89,94,87
 Game Developer,86,60,91,82,73,77,64
-Business Owner,64,69,85,99,76,98,60
 Artist,91,87,84,91,96,88,82
 Scientist,76,66,96,86,85,62,68
 Artist,63,86,72,72,90,75,92
 Software Engineer,94,61,72,70,87,82,76
-Business Owner,70,75,59,91,53,97,95
 Banker,83,69,66,95,93,77,77
-Business Owner,50,61,50,96,70,58,86
 Doctor,99,89,96,98,89,98,93
 Banker,76,85,62,65,79,81,61
-Business Owner,71,66,52,99,87,89,70
 Software Engineer,87,74,81,65,74,91,82
-Business Owner,93,84,65,56,67,92,81
 Lawyer,87,87,69,71,74,91,74
 Government Officer,93,68,61,78,80,65,77
 Game Developer,96,64,91,69,60,62,62
-Business Owner,50,80,100,81,61,68,72
 Construction Engineer,99,88,88,90,82,88,90
 Stock Investor,100,67,100,60,94,72,70
-Business Owner,77,59,60,98,74,76,60
 Software Engineer,88,73,86,75,65,62,83
 Accountant,88,99,64,79,52,75,92
 Stock Investor,99,88,97,97,71,67,79
-Business Owner,50,88,58,78,83,97,88
 Banker,89,86,96,92,97,89,95
 Designer,93,97,77,70,81,83,87
 Software Engineer,96,83,67,86,81,92,73
 Software Engineer,92,98,93,60,74,84,97
 Software Engineer,99,72,65,66,71,85,83
-Business Owner,86,59,81,55,77,69,87
 Software Engineer,91,92,95,90,73,75,95
 Banker,95,91,74,61,94,86,87
 Government Officer,61,94,87,74,92,79,97
 Writer,65,89,70,71,74,97,64
 Game Developer,94,97,97,75,79,68,92
 Designer,94,68,89,90,91,98,72
-Business Owner,56,67,87,97,88,57,86
 Software Engineer,89,63,88,73,78,84,74
 Real Estate Developer,65,70,100,66,71,61,61
 Stock Investor,91,96,63,81,97,74,66
 Banker,88,100,71,85,72,91,81
-Business Owner,49,51,57,80,89,53,76
 Writer,73,94,74,72,80,98,100
 Software Engineer,94,94,74,66,73,92,80
-Business Owner,84,61,59,76,72,54,66
 Construction Engineer,97,91,91,61,68,77,97
 Doctor,96,97,98,98,97,96,89
-Business Owner,44,98,53,68,94,91,84
 Banker,97,64,90,69,88,83,77
 Banker,77,93,65,68,71,75,76
 Accountant,89,99,96,72,84,62,98
 Software Engineer,86,92,65,81,73,84,79
 Teacher,61,75,95,62,93,92,87
-Business Owner,81,90,75,83,70,55,62
 Doctor,90,99,94,91,92,85,64
 Game Developer,88,60,87,95,65,75,76
 Doctor,86,92,84,82,88,84,65
 Banker,78,75,82,91,86,76,69
-Business Owner,73,90,70,80,64,53,79
 Scientist,98,82,91,93,85,75,78
 Scientist,81,79,100,88,81,64,95
 Lawyer,84,95,87,100,96,92,76
 Lawyer,81,90,82,80,98,81,91
 Banker,100,77,90,83,88,91,80
-Business Owner,83,50,59,77,66,87,60
 Accountant,87,75,90,82,99,66,92
 Designer,96,94,60,62,86,79,79
 Software Engineer,98,76,69,75,76,98,81
 Game Developer,83,66,97,95,91,76,80
-Business Owner,86,59,83,81,100,82,99
 Designer,82,67,88,62,73,64,79
 Designer,82,98,78,63,83,91,94
-Business Owner,100,71,70,86,80,91,62
 Real Estate Developer,100,80,88,81,93,93,84
-Business Owner,83,93,75,55,82,51,91
 Banker,93,92,71,89,91,76,61
 Lawyer,86,86,100,86,94,87,85
-Business Owner,50,78,67,95,82,97,80
-Business Owner,78,68,56,50,76,67,97
 Software Engineer,91,69,82,87,100,93,100
 Artist,73,100,78,77,71,61,66
 Game Developer,99,66,81,69,82,73,72
@@ -1429,7 +1177,6 @@ Doctor,90,86,98,97,99,96,85
 Real Estate Developer,68,91,78,63,90,95,80
 Doctor,93,90,93,89,92,93,100
 Construction Engineer,94,95,80,60,89,93,88
-Business Owner,88,96,74,90,82,70,83
 Banker,75,93,66,63,68,91,99
 Doctor,99,89,87,90,87,90,95
 Accountant,93,64,86,82,35,73,84
@@ -1437,10 +1184,7 @@ Lawyer,73,95,78,79,84,89,96
 Real Estate Developer,64,61,76,100,93,61,65
 Lawyer,76,87,98,88,94,86,64
 Stock Investor,91,93,82,81,95,91,70
-Business Owner,70,98,51,51,96,96,70
 Doctor,90,92,95,85,93,69,65
-Business Owner,93,83,61,95,70,93,65
-Business Owner,51,69,85,61,59,81,63
 Accountant,96,64,76,97,81,87,99
 Software Engineer,93,75,84,66,74,99,66
 Doctor,90,90,93,87,93,99,100
@@ -1453,10 +1197,7 @@ Stock Investor,86,88,96,86,87,99,80
 Software Engineer,87,80,97,98,91,64,97
 Lawyer,96,83,97,100,85,92,69
 Lawyer,90,89,70,90,83,82,87
-Business Owner,89,65,65,91,76,91,92
-Business Owner,98,62,75,72,81,73,93
 Doctor,99,100,87,96,93,92,88
-Business Owner,99,65,100,93,91,60,83
 Real Estate Developer,55,81,72,100,87,85,94
 Government Officer,86,87,64,74,60,89,84
 Software Engineer,89,65,60,70,86,62,74
@@ -1464,12 +1205,9 @@ Software Engineer,94,97,90,93,85,95,92
 Game Developer,85,61,100,75,70,89,80
 Banker,75,67,64,80,79,77,80
 Construction Engineer,82,61,89,88,74,78,72
-Business Owner,41,53,64,62,79,50,65
-Business Owner,44,79,83,50,52,79,96
 Lawyer,81,94,61,86,72,97,82
 Banker,77,90,74,65,100,76,80
 Software Engineer,97,97,70,94,66,83,66
-Business Owner,66,83,79,65,57,61,86
 Doctor,91,96,96,90,97,85,98
 Accountant,76,84,95,66,84,74,64
 Software Engineer,97,93,60,90,85,72,83
@@ -1482,7 +1220,6 @@ Software Engineer,95,98,76,61,87,72,100
 Writer,80,76,71,62,92,99,77
 Software Engineer,89,79,97,61,64,79,72
 Government Officer,69,87,91,82,86,77,80
-Business Owner,76,72,58,66,66,62,60
 Doctor,85,97,95,97,98,84,94
 Banker,79,100,72,89,68,99,76
 Teacher,85,76,63,62,74,82,96
@@ -1492,25 +1229,19 @@ Banker,94,76,100,60,80,94,61
 Banker,95,83,94,83,75,99,75
 Real Estate Developer,81,67,93,65,87,84,79
 Accountant,87,100,60,99,45,73,86
-Business Owner,55,86,54,78,55,60,88
-Business Owner,77,71,68,53,70,72,69
 Stock Investor,82,79,60,80,65,64,71
 Artist,81,97,88,81,63,88,67
 Software Engineer,99,70,86,61,70,90,66
 Real Estate Developer,87,77,64,84,84,94,80
-Business Owner,94,62,100,87,91,89,93
 Lawyer,97,89,76,61,91,91,70
 Designer,83,81,70,90,73,89,87
 Construction Engineer,92,92,92,66,90,68,66
 Doctor,100,74,80,84,85,82,74
 Software Engineer,86,69,79,85,63,82,77
-Business Owner,48,80,73,67,84,99,83
-Business Owner,69,56,71,84,52,71,88
 Artist,90,96,89,88,94,73,77
 Stock Investor,85,66,61,85,75,94,76
 Designer,82,73,64,95,87,73,99
 Game Developer,80,61,96,89,96,61,80
-Business Owner,41,53,98,67,61,83,97
 Doctor,99,93,88,92,99,94,95
 Lawyer,95,95,92,61,63,81,100
 Doctor,91,92,81,98,88,76,99
@@ -1519,18 +1250,13 @@ Construction Engineer,90,71,93,73,80,78,69
 Software Engineer,85,68,73,94,88,86,77
 Doctor,100,97,94,87,89,91,100
 Scientist,77,81,80,95,80,74,80
-Business Owner,92,98,60,74,63,89,80
-Business Owner,53,87,60,94,93,65,88
 Accountant,79,74,78,97,87,85,79
 Designer,85,89,72,80,99,94,90
 Artist,99,85,60,81,75,78,78
 Banker,99,91,73,77,81,75,90
-Business Owner,65,68,74,50,98,60,83
 Software Engineer,94,83,72,63,65,63,74
-Business Owner,73,52,89,85,74,66,79
 Software Engineer,85,76,61,93,98,87,67
 Lawyer,87,82,74,77,100,93,65
-Business Owner,77,58,90,72,75,88,90
 Scientist,85,60,92,92,85,62,84
 Software Engineer,91,69,90,76,79,80,82
 Software Engineer,86,96,83,78,71,78,75
@@ -1546,7 +1272,6 @@ Software Engineer,94,66,84,92,71,81,99
 Stock Investor,81,88,85,90,93,62,96
 Teacher,80,93,89,79,89,93,100
 Lawyer,87,90,98,90,83,94,84
-Business Owner,58,50,73,54,94,51,74
 Government Officer,60,90,87,91,78,77,82
 Real Estate Developer,91,70,88,68,88,63,68
 Scientist,95,97,89,97,99,85,92
@@ -1559,9 +1284,7 @@ Banker,85,95,77,71,75,95,94
 Real Estate Developer,92,66,88,91,61,84,69
 Software Engineer,87,63,79,81,95,75,64
 Accountant,77,77,97,66,87,73,75
-Business Owner,73,56,59,62,58,83,80
 Lawyer,91,85,81,93,100,87,77
-Business Owner,76,96,89,83,78,54,61
 Software Engineer,86,70,94,96,74,67,60
 Banker,81,77,88,92,65,92,87
 Lawyer,98,88,88,89,90,90,90
@@ -1570,12 +1293,8 @@ Scientist,85,83,94,100,89,68,89
 Lawyer,90,89,96,94,100,88,85
 Game Developer,97,83,93,67,85,63,66
 Government Officer,78,84,71,93,78,78,87
-Business Owner,53,98,90,81,61,65,93
-Business Owner,77,53,92,98,56,53,93
 Lawyer,97,88,94,75,66,91,64
-Business Owner,88,100,58,59,96,64,87
 Construction Engineer,98,67,80,68,80,88,85
-Business Owner,92,78,78,85,94,94,73
 Software Engineer,92,92,74,96,95,77,76
 Doctor,86,99,87,88,99,89,86
 Designer,91,69,97,76,97,81,86
@@ -1584,13 +1303,11 @@ Game Developer,82,75,93,67,69,65,74
 Lawyer,99,81,92,86,65,99,79
 Software Engineer,95,90,65,84,86,88,94
 Software Engineer,100,93,99,65,72,79,88
-Business Owner,80,95,96,96,94,84,93
 Doctor,93,81,88,90,89,95,81
 Software Engineer,95,75,79,79,93,85,71
 Banker,81,92,76,81,73,92,63
 Designer,75,88,63,64,84,74,72
 Stock Investor,80,69,70,60,71,60,89
-Business Owner,52,81,62,77,74,91,92
 Doctor,95,94,82,87,93,93,90
 Accountant,99,70,97,93,87,90,88
 Software Engineer,85,87,68,74,74,85,68
@@ -1598,15 +1315,12 @@ Construction Engineer,96,89,86,84,64,60,66
 Game Developer,91,63,86,81,90,98,63
 Software Engineer,89,82,76,92,97,66,60
 Doctor,98,87,96,89,100,85,91
-Business Owner,75,71,68,91,79,62,94
 Real Estate Developer,74,63,74,63,78,90,83
 Doctor,85,99,87,85,91,88,90
 Doctor,91,71,99,96,85,79,74
 Software Engineer,90,76,100,73,90,64,86
 Scientist,91,91,92,95,98,91,85
-Business Owner,80,83,93,81,95,87,61
 Doctor,95,89,92,87,95,86,93
-Business Owner,54,55,50,100,77,61,78
 Construction Engineer,87,80,85,60,96,81,83
 Software Engineer,100,75,72,79,61,94,82
 Government Officer,93,99,72,79,83,87,73
@@ -1629,7 +1343,6 @@ Banker,89,92,75,85,65,81,69
 Writer,89,73,96,84,96,98,77
 Software Engineer,89,82,83,62,66,86,90
 Government Officer,81,78,82,83,63,85,75
-Business Owner,79,95,70,92,63,57,67
 Banker,78,66,92,61,98,76,99
 Accountant,83,60,95,68,33,62,73
 Stock Investor,86,95,61,96,89,99,84
@@ -1642,45 +1355,34 @@ Lawyer,83,91,76,71,82,82,79
 Doctor,98,79,87,86,98,85,85
 Doctor,83,84,91,84,85,91,92
 Software Engineer,85,60,85,76,90,75,93
-Business Owner,68,66,82,63,91,67,89
 Government Officer,86,82,60,65,83,69,78
 Government Officer,83,87,87,80,81,79,98
 Real Estate Developer,91,66,91,62,70,87,90
-Business Owner,53,95,87,60,68,74,68
 Lawyer,73,85,80,64,69,95,64
 Banker,97,95,91,97,96,90,67
 Government Officer,91,97,72,62,86,78,72
 Banker,91,65,75,60,93,79,82
 Writer,81,72,87,84,97,94,89
 Software Engineer,92,99,100,64,100,65,99
-Business Owner,85,53,95,76,61,88,82
 Construction Engineer,83,60,80,92,84,60,70
 Real Estate Developer,80,88,94,60,65,63,91
 Accountant,87,81,69,82,70,62,66
 Scientist,88,61,95,91,99,64,90
-Business Owner,41,83,54,87,97,65,69
 Banker,87,93,88,97,91,88,88
 Doctor,89,95,97,99,87,90,91
-Business Owner,89,53,77,96,76,63,90
 Real Estate Developer,53,97,81,86,71,87,78
 Scientist,92,88,99,92,89,66,76
 Banker,85,84,66,66,78,98,69
 Software Engineer,89,67,93,83,65,94,67
-Business Owner,98,92,82,56,71,79,89
-Business Owner,66,52,71,76,67,72,60
 Lawyer,90,96,95,80,93,95,67
 Teacher,84,93,74,76,95,90,64
 Lawyer,88,81,73,70,60,95,68
 Teacher,86,63,82,61,96,98,83
-Business Owner,60,72,66,95,67,78,94
-Business Owner,41,59,69,70,100,65,72
 Software Engineer,94,62,66,95,66,64,62
 Artist,64,69,79,89,72,64,82
 Game Developer,99,97,87,93,79,83,94
-Business Owner,46,53,92,71,90,76,81
 Software Engineer,89,87,81,67,93,98,68
 Designer,83,79,87,66,78,93,82
-Business Owner,51,55,87,51,77,87,65
 Accountant,79,90,82,92,70,60,80
 Accountant,97,73,64,95,71,68,78
 Accountant,100,68,85,85,62,63,92
@@ -1691,14 +1393,11 @@ Banker,87,64,68,60,81,75,67
 Game Developer,80,79,94,74,83,83,61
 Software Engineer,94,80,72,90,60,78,94
 Real Estate Developer,83,91,82,93,71,80,85
-Business Owner,63,69,57,60,80,92,62
 Doctor,94,100,95,92,95,88,88
 Software Engineer,99,75,87,76,95,99,67
 Doctor,82,98,100,100,100,64,87
 Software Engineer,95,82,100,60,77,95,80
-Business Owner,55,92,59,78,61,83,60
 Software Engineer,90,90,82,64,75,82,93
-Business Owner,46,77,90,78,66,76,86
 Accountant,91,100,98,96,66,87,65
 Writer,72,100,78,100,98,92,97
 Banker,79,87,98,87,99,94,88
@@ -1709,7 +1408,6 @@ Banker,85,96,71,67,98,92,91
 Software Engineer,90,82,98,61,92,67,80
 Banker,94,96,94,99,67,98,67
 Construction Engineer,98,85,100,94,93,92,94
-Business Owner,62,54,77,60,74,62,76
 Artist,63,97,80,84,90,63,64
 Lawyer,72,95,71,74,84,97,66
 Software Engineer,94,90,79,69,100,72,98
@@ -1727,7 +1425,6 @@ Accountant,98,88,81,65,59,84,87
 Software Engineer,96,96,80,93,82,65,70
 Stock Investor,80,98,99,90,64,86,93
 Software Engineer,91,79,70,94,77,83,81
-Business Owner,91,96,78,70,50,50,69
 Banker,83,70,72,65,63,88,94
 Lawyer,89,89,69,87,69,97,79
 Game Developer,81,73,99,72,100,90,64
@@ -1743,8 +1440,6 @@ Game Developer,87,91,97,82,79,69,62
 Doctor,88,98,94,96,96,89,92
 Doctor,86,93,91,94,93,88,86
 Government Officer,68,65,95,88,62,87,62
-Business Owner,67,54,71,50,55,51,66
-Business Owner,82,69,92,85,59,87,83
 Software Engineer,95,91,64,65,60,84,99
 Real Estate Developer,72,82,76,69,67,92,87
 Accountant,99,87,67,91,36,76,64
@@ -1753,9 +1448,6 @@ Scientist,77,80,86,87,98,98,88
 Software Engineer,95,97,84,97,75,92,92
 Banker,77,97,88,89,74,95,64
 Designer,90,74,92,67,83,73,89
-Business Owner,74,59,82,51,91,96,94
-Business Owner,56,66,87,64,95,89,76
-Business Owner,72,69,91,69,53,73,95
 Lawyer,87,86,83,80,90,90,61
 Lawyer,80,81,96,92,100,91,87
 Software Engineer,98,72,64,68,76,84,72
@@ -1774,5 +1466,4 @@ Accountant,76,62,90,82,93,71,61
 Construction Engineer,83,77,84,73,75,84,82
 Software Engineer,89,65,73,80,87,67,73
 Software Engineer,97,85,63,93,68,94,78
-Business Owner,51,96,72,89,95,88,75
 Accountant,82,99,91,69,83,93,100
