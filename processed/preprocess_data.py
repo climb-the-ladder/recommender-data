@@ -12,6 +12,7 @@ def preprocess_student_data():
     
     # we also remove rows where career_aspiration is unknown
     df = df[df['career_aspiration'] != 'Unknown']
+    df = df[df['career_aspiration'] != 'Business Owner']
     
     # Optional sanity check: drop rows with missing target values
     df = df.dropna(subset=['career_aspiration'])
