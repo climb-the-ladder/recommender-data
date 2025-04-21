@@ -1,29 +1,29 @@
 Career_Field,University_Name,Min_GPA_100,Max_GPA_100,Rank_Tier
-Lawyer,Stanford University,93,100,Top 1
-Lawyer,Yale University,94,100,Top 2
-Lawyer,University of Chicago,92,100,Top 3
-Lawyer,University of Virginia,90,99,Top 4
-Lawyer,University of Pennsylvania (Carey),90,98,Top 5
-Lawyer,Harvard University,93,100,Top 6
-Lawyer,Duke University,89,98,Top 7
-Lawyer,New York University (NYU),90,97,Top 8
-Lawyer,University of Michigan–Ann Arbor,89,97,Top 9
-Lawyer,Columbia University,92,99,Top 10
-Lawyer,Northwestern University (Pritzker),88,97,Top 11
-Lawyer,University of California Los Angeles (UCLA),89,97,Top 12
-Lawyer,University of California Berkeley,90,98,Top 13
-Lawyer,Georgetown University,88,97,Top 14
-Lawyer,University of Texas at Austin,88,97,Top 15
-Lawyer,Vanderbilt University,87,97,Top 16
-Lawyer,Washington University in St. Louis,87,97,Top 17
-Lawyer,Cornell University,89,97,Top 18
-Lawyer,University of Southern California (Gould),88,97,Top 19
-Lawyer,University of Minnesota,87,97,Top 20
-Lawyer,University of Notre Dame,87,97,Top 21
-Lawyer,Boston University,87,97,Top 22
-Lawyer,University of North Carolina–Chapel Hill,85,96,Top 23
-Lawyer,University of Georgia,85,96,Top 24
-Lawyer,University of Iowa,85,95,Top 25
+Lawyer,University of Pennsylvania,85,90,Top 25
+Lawyer,MIT,85,90,Top 25
+Lawyer,University of Washington,85,90,Top 25
+Lawyer,Harvard University,85,90,Top 25
+Lawyer,University of Texas at Austin,95,100,Top 5
+Lawyer,Texas A&M University,75,85,Regional
+Lawyer,Ohio State University,90,95,Top 15
+Lawyer,Stanford University,85,90,Top 25
+Lawyer,Georgia Institute of Technology,90,95,Top 15
+Lawyer,NYU,90,95,Top 15
+Lawyer,Cornell University,95,100,Top 5
+Lawyer,Purdue University,95,100,Top 5
+Lawyer,University of Florida,95,100,Top 5
+Lawyer,University of Southern California,85,90,Top 25
+Lawyer,University of Illinois Urbana-Champaign,90,95,Top 15
+Lawyer,University of Michigan,95,100,Top 5
+Lawyer,Northwestern University,75,85,Regional
+Lawyer,Columbia University,90,95,Top 15
+Lawyer,Yale University,95,100,Top 5
+Lawyer,Princeton University,75,85,Regional
+Lawyer,UCLA,85,90,Top 25
+Lawyer,Boston University,85,90,Top 25
+Lawyer,Carnegie Mellon University,95,100,Top 5
+Lawyer,Penn State University,85,90,Top 25
+Lawyer,University of Chicago,95,100,Top 5
 Doctor,Purdue University,75,85,Regional
 Doctor,Boston University,95,100,Top 5
 Doctor,University of Washington,95,100,Top 5
