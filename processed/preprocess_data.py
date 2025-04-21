@@ -3,7 +3,7 @@ import pandas as pd
 def preprocess_student_data():
     df = pd.read_csv('recommender-data/raw/student-scores.csv')
     
-    # we drop unnecessary columns including personal info and boolean flags
+    # we drop unnecessary columns including personal info and boolean flags.
     df = df.drop(columns=[
         'id', 'first_name', 'last_name', 'email', 'gender',
         'part_time_job', 'extracurricular_activities',
@@ -14,7 +14,6 @@ def preprocess_student_data():
     df = df[df['career_aspiration'] != 'Unknown']
     df = df[df['career_aspiration'] != 'Business Owner']
     
-    # Optional sanity check: drop rows with missing target values
     df = df.dropna(subset=['career_aspiration'])
     
     # Final dataset preview
