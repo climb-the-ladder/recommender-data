@@ -41,6 +41,14 @@ The `preprocess_data.py` script performs the following operations:
 
 To run the preprocessing script:
 
+First, install the dependencies:
+
+```bash:recommender-data/README.md
+pip install -r requirements.txt
+```
+
+Then, run the preprocessing script:
+
 ```bash:recommender-data/README.md
 cd recommender-data/processed
 python preprocess_data.py
