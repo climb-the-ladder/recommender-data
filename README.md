@@ -34,7 +34,7 @@ This repository contains the datasets and data processing scripts used by the Ca
 
 The `preprocess_data.py` script performs the following operations:
 - Removes personally identifiable information (names, emails, etc.)
-- Drops unnecessary columns (part_time_job, extracurricular_activities, etc.)
+- Drops unnecessary columns - the categorical data columns (part_time_job, extracurricular_activities, etc.)
 - Filters out records with unknown or ambiguous career aspirations
 - Handles missing values
 - Saves the processed dataset for model training
@@ -56,22 +56,6 @@ This data is used by multiple components of the Career Recommendation System:
 
 3. **Data Analysis**: The processed data is used for generating insights and visualizations about career trends and subject correlations.
 
-## Data Insights
-
-For a detailed analysis of the data, run the insights generation script:
-
-```bash
-cd recommender-models
-python insights.py
-```
-
-This will generate a comprehensive PDF report with visualizations and key insights about:
-- Career distributions
-- Subject correlations
-- Career-subject relationships
-- Key insights and recommendations
-
-The report is saved to `recommender-insights/reports/career_insights_report.pdf`.
 
 ## Data Privacy
 
@@ -83,6 +67,3 @@ The raw data has been anonymized to remove personally identifiable information. 
 - numpy: For numerical operations
 - matplotlib & seaborn: For data visualization (only needed for insights generation)
 
-## License
-
-This data is for educational and demonstration purposes only. Do not use for commercial applications without proper authorization.
