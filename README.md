@@ -65,10 +65,6 @@ This data is used by multiple components of the Career Recommendation System:
 3. **Data Analysis**: The processed data is used for generating insights and visualizations about career trends and subject correlations.
 
 
-## Data Privacy
-
-The raw data has been anonymized to remove personally identifiable information. The preprocessing script further removes any remaining sensitive information to ensure data privacy.
-
 ## Dependencies
 
 - pandas: For data manipulation and processing
