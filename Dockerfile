@@ -6,11 +6,15 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the application
-COPY . .
+# Copy data and code separately for better organization
+COPY raw/ /app/raw/
+COPY processed/ /app/processed/
 
-# Create directory structure if it doesn't exist
-RUN mkdir -p processed
+# Ensure the processed directory exists
+RUN mkdir -p /app/processed/output
+
+# Set the working directory to the root of the project
+WORKDIR /app
 
 # Set the default command
 CMD ["python", "processed/preprocess_data.py"] 
