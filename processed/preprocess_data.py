@@ -1,7 +1,7 @@
 import pandas as pd
 
 def preprocess_student_data():
-    df = pd.read_csv('recommender-data/raw/student-scores.csv')
+    df = pd.read_csv('../raw/student-scores.csv')
     
     # we drop unnecessary columns including personal info and boolean flags.
     df = df.drop(columns=[
@@ -20,7 +20,7 @@ def preprocess_student_data():
     print("Processed Data Sample:")
     print(df.head())
     
-    df.to_csv('recommender-data/processed/processed_dataset.csv', index=False)
+    df.to_csv('processed_dataset.csv', index=False)
     print("✅ Preprocessed dataset saved at recommender-data/processed/processed_dataset.csv")
 
 if __name__ == "__main__":
