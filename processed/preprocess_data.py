@@ -1,7 +1,26 @@
 import pandas as pd
+import os
 
 def preprocess_student_data():
-    df = pd.read_csv('../raw/student-scores.csv')
+    # Use absolute paths for Docker reliability
+    input_file = '/app/raw/student-scores.csv'
+    output_file = '/app/processed/output/processed_dataset.csv'
+    
+    print(f"Attempting to read input file from: {input_file}")
+    
+    # Check if file exists
+    if not os.path.exists(input_file):
+        print("ERROR: Input file not found!")
+        print("Current directory:", os.getcwd())
+        print("Directory contents:")
+        for root, dirs, files in os.walk('/app'):
+            print(f"Directory: {root}")
+            for file in files:
+                print(f"  - {file}")
+        raise FileNotFoundError(f"Input file not found: {input_file}")
+    
+    # Read the data
+    df = pd.read_csv(input_file)
     
     # we drop unnecessary columns including personal info and boolean flags.
     df = df.drop(columns=[
@@ -20,8 +39,12 @@ def preprocess_student_data():
     print("Processed Data Sample:")
     print(df.head())
     
-    df.to_csv('processed_dataset.csv', index=False)
-    print("✅ Preprocessed dataset saved at recommender-data/processed/processed_dataset.csv")
+    # Ensure output directory exists
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    # Save to the output location
+    df.to_csv(output_file, index=False)
+    print(f"✅ Preprocessed dataset saved at {output_file}")
 
 if __name__ == "__main__":
     preprocess_student_data()
